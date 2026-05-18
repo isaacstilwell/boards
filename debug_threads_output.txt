@@ -1,0 +1,2920 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="f9ec5b5de2" name="verify-admitad"/>
+  <link href="https://cdn.geekhack.org/Themes/Nostalgia/css/index.css?fin20" rel="stylesheet" type="text/css"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-26425837-1'); /* geekhack */
+		gtag('config', 'UA-29278272-11', {
+			linker: {
+				domains: ['drop.com']
+			}
+		}); /* md */
+  </script>
+  <script src="https://cdn.geekhack.org/Themes/default/scripts/script.js?fin20" type="text/javascript">
+  </script>
+  <script src="https://cdn.geekhack.org/Themes/Nostalgia/scripts/theme.js?fin20" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!-- // --><![CDATA[
+		var smf_theme_url = "https://cdn.geekhack.org/Themes/Nostalgia";
+		var smf_default_theme_url = "https://cdn.geekhack.org/Themes/default";
+		var smf_images_url = "https://cdn.geekhack.org/Themes/Nostalgia/images";
+		var smf_scripturl = "https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "ISO-8859-1";
+		var ajax_notification_text = "Loading...";
+		var ajax_notification_cancel_text = "Cancel";
+	// ]]>
+  </script>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="Group Buys and Preorders" name="description"/>
+  <meta content="mechanical keyboard cherry MX buckling spring topre realforce filco razer switches geeky maker community phantom leopold vortex majestouch gaming typing enthusiasts hhkb happy hacking PFU fc700r fc500r fc200r 87u 104u ducky usb ps2 xt/at teensy arduino keycap otd kbdmania geekhack group buy" name="keywords"/>
+  <title>
+   Group Buys and Preorders
+  </title>
+  <link href="https://geekhack.org/index.php?board=70.0" rel="canonical"/>
+  <link href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=help" rel="help"/>
+  <link href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=search" rel="search"/>
+  <link href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;" rel="contents"/>
+  <link href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;type=rss;action=.xml" rel="alternate" title="geekhack - RSS" type="application/rss+xml"/>
+  <link href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0" rel="index"/>
+  <link href="https://groups.tapatalk-cdn.com/static/manifest/manifest.json" rel="manifest"/>
+  <meta content="app-id=307880732, affiliate-data=at=10lR7C, app-argument=tapatalk://geekhack.org/?location=forum&amp;fid=70&amp;page=1&amp;perpage=50" name="apple-itunes-app"/>
+  <script type="text/javascript">
+   <!-- // --><![CDATA[
+		var _ohWidth = 480;
+		var _ohHeight = 270;
+	// ]]>
+  </script>
+  <script type="text/javascript">
+   !window.jQuery && document.write(unescape('%3Cscript src="//code.jquery.com/jquery-1.9.1.min.js"%3E%3C/script%3E'))
+  </script>
+  <script src="https://cdn.geekhack.org/Themes/default/scripts/ohyoutube.min.js" type="text/javascript">
+  </script>
+  <link href="https://cdn.geekhack.org/Themes/default/css/oharaEmbed.css" rel="stylesheet" type="text/css">
+   <script src="https://cdn.geekhack.org/Themes/default/scripts/ila.js" type="text/javascript">
+   </script>
+   <link href="https://cdn.geekhack.org/Themes/default/hs4smf/highslide.css" media="screen" rel="stylesheet" type="text/css"/>
+   <style type="text/css">
+    .highslide-wrapper, .highslide-outline {background: #FFFFFF;}
+   </style>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript">
+   </script>
+   <script src="https://cdn.geekhack.org/Themes/default/scripts/more.js" type="text/javascript">
+   </script>
+   <script src="https://cdn.geekhack.org/Themes/default/scripts/image.js" type="text/javascript">
+   </script>
+  </link>
+ </head>
+ <body>
+  <div id="wrapper" style="width: 95%">
+   <div id="header">
+    <div class="frame">
+     <div id="top_section" style="background: url(https://geekhack.org/Themes/images/banner-bg-phantom.png
+) no-repeat">
+      <h1 class="forumtitle">
+       <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;">
+        <img alt="geekhack" src="https://geekhack.org/Themes/Nostalgia/images/banner.png"/>
+       </a>
+      </h1>
+      <img alt="*" id="upshrink" src="https://cdn.geekhack.org/Themes/Nostalgia/images/upshrink.png" style="display: none;" title="Shrink or expand the header."/>
+      <div class="floatright" id="siteslogan">
+       <form accept-charset="ISO-8859-1" action="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=search2" id="search_form" method="post">
+        <input class="input_text" name="search" type="text" value=""/>
+        <input class="button_submit" name="submit" type="submit" value="Search"/>
+        <input name="advanced" type="hidden" value="1"/>
+        <input name="brd[70]" type="hidden" value="70"/>
+        <br/>
+        <a class="news tighttext" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=search;advanced" onclick="this.href += ';search=' + escape(document.forms.searchform.search.value);">
+         Advanced search
+        </a>
+       </form>
+       wanna switch?
+      </div>
+     </div>
+     <div class="middletext" id="upper_section">
+      <div class="user">
+       <script src="https://cdn.geekhack.org/Themes/default/scripts/sha1.js" type="text/javascript">
+       </script>
+       <form accept-charset="ISO-8859-1" action="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=login2" id="guest_form" method="post" onsubmit="hashLoginPassword(this, '614d714384bda2df0781f112a4505ed1');">
+        <div class="info">
+         Welcome,
+         <strong>
+          Guest
+         </strong>
+         . Please
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=login">
+          login
+         </a>
+         or
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=register">
+          register
+         </a>
+         .
+         <br>
+          Did you miss your
+          <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=activate">
+           activation email
+          </a>
+          ?
+         </br>
+        </div>
+        <input class="input_text" name="user" size="10" type="text"/>
+        <input class="input_password" name="passwrd" size="10" type="password"/>
+        <select name="cookielength">
+         <option value="60">
+          1 Hour
+         </option>
+         <option value="1440">
+          1 Day
+         </option>
+         <option value="10080">
+          1 Week
+         </option>
+         <option value="43200">
+          1 Month
+         </option>
+         <option selected="selected" value="-1">
+          Forever
+         </option>
+        </select>
+        <input class="button_submit" type="submit" value="Login"/>
+        <br/>
+        <div class="info">
+         Login with username, password and session length
+        </div>
+        <input name="hash_passwrd" type="hidden" value=""/>
+        <input name="e5550fb8bd" type="hidden" value="614d714384bda2df0781f112a4505ed1"/>
+       </form>
+      </div>
+      <div class="news normaltext">
+       <h2>
+        News:
+       </h2>
+       <p>
+        Are your eyes bleeding?  You can always
+        <a class="bbc_link" href="http://geekhack.org/index.php?action=profile;area=theme" target="_blank">
+         change your theme
+        </a>
+        .
+       </p>
+      </div>
+     </div>
+     <br class="clear"/>
+     <script type="text/javascript">
+      <!-- // --><![CDATA[
+			var oMainHeaderToggle = new smc_Toggle({
+				bToggleEnabled: true,
+				bCurrentlyCollapsed: false,
+				aSwappableContainers: [
+					'upper_section'
+				],
+				aSwapImages: [
+					{
+						sId: 'upshrink',
+						srcExpanded: smf_images_url + '/upshrink.png',
+						altExpanded: 'Shrink or expand the header.',
+						srcCollapsed: smf_images_url + '/upshrink2.png',
+						altCollapsed: 'Shrink or expand the header.'
+					}
+				],
+				oThemeOptions: {
+					bUseThemeSettings: false,
+					sOptionName: 'collapse_header',
+					sSessionVar: 'e5550fb8bd',
+					sSessionId: '614d714384bda2df0781f112a4505ed1'
+				},
+				oCookieOptions: {
+					bUseCookie: true,
+					sCookieName: 'upshrink'
+				}
+			});
+		// ]]>
+     </script>
+     <div id="main_menu">
+      <ul class="dropmenu" id="menu_nav">
+       <li id="button_home">
+        <a class="firstlevel active firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;">
+         <span class="firstlevel">
+          Home
+         </span>
+        </a>
+       </li>
+       <li id="button_watched">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=watched">
+         <span class="firstlevel">
+          Watched
+         </span>
+        </a>
+       </li>
+       <li id="button_unread">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=unread">
+         <span class="firstlevel">
+          Unread
+         </span>
+        </a>
+       </li>
+       <li id="button_notifications">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;area=notification">
+         <span class="firstlevel">
+          Notifications
+         </span>
+        </a>
+       </li>
+       <li id="button_irc">
+        <a class="firstlevel firstlevel" href="http://webchat.freenode.net/?channels=geekhack">
+         <span class="firstlevel">
+          IRC
+         </span>
+        </a>
+       </li>
+       <li id="button_wiki">
+        <a class="firstlevel firstlevel" href="http://wiki.geekhack.org">
+         <span class="firstlevel">
+          Wiki
+         </span>
+        </a>
+       </li>
+       <li id="button_search">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=search">
+         <span class="firstlevel">
+          Search
+         </span>
+        </a>
+       </li>
+       <li id="button_recenttopics">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=recenttopics">
+         <span class="firstlevel">
+          Spy
+         </span>
+        </a>
+       </li>
+       <li id="button_login">
+        <a class="firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=login">
+         <span class="firstlevel">
+          Login
+         </span>
+        </a>
+       </li>
+       <li id="button_register">
+        <a class="last firstlevel firstlevel" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=register">
+         <span class="last firstlevel">
+          Register
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <br class="clear"/>
+    </div>
+   </div>
+   <div id="content_section">
+    <div class="frame">
+     <div id="main_content_section">
+      <div class="navigate_section">
+       <ul>
+        <li>
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;">
+          <span>
+           geekhack
+          </span>
+         </a>
+         »
+        </li>
+        <li>
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;#c49">
+          <span>
+           geekhack Marketplace
+          </span>
+         </a>
+         »
+        </li>
+        <li class="last">
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0">
+          <span>
+           Group Buys and Preorders
+          </span>
+         </a>
+         (Moderator:
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=31271" title="Board Moderator">
+          Signature
+         </a>
+         )
+        </li>
+       </ul>
+      </div>
+      <a id="top">
+      </a>
+      <div class="pagesection">
+       <div class="pagelinks floatleft">
+        Pages:  [
+        <strong>
+         1
+        </strong>
+        ]
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.50">
+         2
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.100">
+         3
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.150">
+         4
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.200">
+         5
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.250">
+         6
+        </a>
+        <span onclick="expandPages(this, 'https://geekhack.org/index.php?board=70.%1$d', 300, 2950, 50);" onmouseover="this.style.cursor='pointer';" style="font-weight: bold;">
+         ...
+        </span>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.2950">
+         60
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.50">
+         »
+        </a>
+        <a href="#bot">
+         <strong>
+          Go Down
+         </strong>
+        </a>
+       </div>
+      </div>
+      <div class="tborder topic_table" id="messageindex">
+       <table cellspacing="0" class="table_grid">
+        <thead>
+         <tr class="catbg">
+          <th class="first_th" colspan="2" scope="col" width="8%">
+          </th>
+          <th class="lefttext" scope="col">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0;sort=subject">
+            Subject
+           </a>
+           /
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0;sort=starter">
+            Started by
+           </a>
+          </th>
+          <th scope="col" width="14%">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0;sort=replies">
+            Replies
+           </a>
+           /
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0;sort=views">
+            Views
+           </a>
+          </th>
+          <th class="lefttext last_th" scope="col" width="22%">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0;sort=last_post">
+            Last post
+            <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/sort_down.gif"/>
+           </a>
+          </th>
+         </tr>
+        </thead>
+        <tbody>
+         <tr class="windowbg2 whos_viewing">
+          <td class="smalltext" colspan="5">
+           0 Members and 186 Guests are viewing this board.
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_1314654">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.0">
+              *** LIST OF CURRENTLY RUNNING COMMUNITY AND VENDOR GROUP BUYS ***
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=27585" title="View the profile of Photoelectric">
+              Photoelectric
+             </a>
+             <small id="pages1314654">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.100">
+               3
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           122 Replies
+           <br/>
+           1166507 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=57761.100#msg3213707">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 02 February 2026, 16:26:20
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=62171">
+            dragonfax
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/hot_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3175259">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121835.0">
+              Introducing the "MK Vendor Trust and Safety System" for Group Buys
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3175259">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121835.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121835.50">
+               2
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121835.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           52 Replies
+           <br/>
+           144534 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121835.50#msg3212687">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Tue, 16 December 2025, 08:41:53
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=158190">
+            Vaalbeast
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/hot_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3092113">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=115197.0">
+              Group Buy Rules and Guidelines (Updated 2025-03-07)
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3092113">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=115197.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=115197.50">
+               2
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=115197.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           50 Replies
+           <br/>
+           223730 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=115197.50#msg3201036">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 07 March 2025, 13:01:39
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096">
+            HoffmanMyster
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3145809">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=118762.0">
+              How to contact a Group Buy organizer or vendor
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3145809">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           3 Replies
+           <br/>
+           106428 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=118762.0#msg3198405">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 08 January 2025, 04:07:06
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=166370">
+            smithcohn12
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3171199">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121348.0">
+              Important Information Regarding Mechs &amp; Co GMK Sets - Please Read
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3171199">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           27 Replies
+           <br/>
+           118826 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=121348.0#msg3186222">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 06 May 2024, 20:06:47
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=139699">
+            zebus
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3181364">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=122488.0">
+              Important Information Regarding Monoflex 60% Keyboard Group Buy
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3181364">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           0 Replies
+           <br/>
+           34904 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=122488.0#msg3181364">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 14 February 2024, 10:25:57
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096">
+            HoffmanMyster
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_3165241">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.0">
+              Update 2023-06-30: PSA Regarding Mechs &amp; Co and Vendor Group Buys
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages3165241">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.100">
+               3
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           107 Replies
+           <br/>
+           288640 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=120674.100#msg3177316">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 09 December 2023, 17:23:00
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=130527">
+            DaaDaa
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post_sticky.gif"/>
+          </td>
+          <td class="icon2 stickybg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject stickybg2">
+           <div>
+            <span id="msg_1943402">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=77272.0">
+              What is a group buy? Should I join one? Group Buy FAQ / Buying Guidelines
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096" title="View the profile of HoffmanMyster">
+              HoffmanMyster
+             </a>
+             <small id="pages1943402">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats stickybg">
+           31 Replies
+           <br/>
+           309686 Views
+          </td>
+          <td class="lastpost stickybg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=77272.0#msg3141636">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 26 September 2022, 01:41:33
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=154691">
+            MMJ1999
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/clip.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3000385">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110579.0">
+              [GB] GMK Iconographic - CHECKING INTEREST FOR RERUN
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=79015" title="View the profile of Lil">
+              Lil
+             </a>
+             <small id="pages3000385">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110579.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110579.50">
+               2
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110579.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           99 Replies
+           <br/>
+           96451 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110579.50#msg3216052">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 09 May 2026, 13:07:57
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=160898">
+            Zahul
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215011">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126526.0">
+              [GB] DSS Distortion 40s
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=164543" title="View the profile of madmax13">
+              madmax13
+             </a>
+             <small id="pages3215011">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           10 Replies
+           <br/>
+           6506 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126526.0#msg3216050">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 09 May 2026, 11:29:20
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215878">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126645.0">
+              [GB] DCS Grass Valley | Live till June 1st!
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=78852" title="View the profile of Shark">
+              Shark
+             </a>
+             <small id="pages3215878">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           12 Replies
+           <br/>
+           9306 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126645.0#msg3216049">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 09 May 2026, 10:48:34
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215118">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126536.0">
+              [GB] GMK CYL Combobreaker | 3rd April '26 - 3rd May '26
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=163593" title="View the profile of OrinNYC">
+              OrinNYC
+             </a>
+             <small id="pages3215118">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           11 Replies
+           <br/>
+           9142 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126536.0#msg3216002">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 06 May 2026, 18:26:49
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=163593">
+            OrinNYC
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215955">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126654.0">
+              [GB] GMK CYL Gonzales | May 4 - June 3
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=133115" title="View the profile of balance">
+              balance
+             </a>
+             <small id="pages3215955">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           4 Replies
+           <br/>
+           2805 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126654.0#msg3215996">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 06 May 2026, 01:46:42
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=133115">
+            balance
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/cheesy.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3203561">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125085.0">
+              [GB] DIVERSITYA multi-layout keyboard inspired by original Cherry style
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=162556" title="View the profile of SumJoy">
+              SumJoy
+             </a>
+             <small id="pages3203561">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           21 Replies
+           <br/>
+           24221 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125085.0#msg3215991">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Tue, 05 May 2026, 15:04:12
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=31807">
+            EdgeOfInfinity
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215898">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126649.0">
+              [GB] GMK Gregory 2
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41424" title="View the profile of pancake">
+              pancake
+             </a>
+             <small id="pages3215898">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           10 Replies
+           <br/>
+           8589 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126649.0#msg3215979">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 04 May 2026, 23:13:54
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_2772493">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.0">
+              [GB] GMK Hammerhead | July 6th - 31st
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=69258" title="View the profile of keylabskeycaps">
+              keylabskeycaps
+             </a>
+             <small id="pages2772493">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.100">
+               3
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.150">
+               4
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           188 Replies
+           <br/>
+           146161 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=101037.150#msg3215974">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 04 May 2026, 15:18:01
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3208436">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125570.0">
+              [GB] R2 Fossil &amp; Southpaw Fossil Full Size Keyboard - Made in USA GB ENDS 9/15
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=69781" title="View the profile of ARSLOCK">
+              ARSLOCK
+             </a>
+             <small id="pages3208436">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           15 Replies
+           <br/>
+           20510 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125570.0#msg3215970">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 04 May 2026, 14:14:18
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=69781">
+            ARSLOCK
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/clip.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215481">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126598.0">
+              [GB] NicePBT Youmu - CK x Touhou Project - FINAL WEEK
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=14303" title="View the profile of Sifo">
+              Sifo
+             </a>
+             <small id="pages3215481">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           2 Replies
+           <br/>
+           4488 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126598.0#msg3215964">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 04 May 2026, 07:42:17
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=14303">
+            Sifo
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3132318">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=117742.0">
+              [GB] DCS White on Black - MOQ reached
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=148695" title="View the profile of ankit">
+              ankit
+             </a>
+             <small id="pages3132318">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=117742.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=117742.50">
+               2
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=117742.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           72 Replies
+           <br/>
+           181698 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=117742.50#msg3215961">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 04 May 2026, 02:38:08
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=169911">
+            Chebyshev
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215615">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126611.0">
+              [GB] GMK Ishtar R2
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=107490" title="View the profile of Bachoo">
+              Bachoo
+             </a>
+             <small id="pages3215615">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           9 Replies
+           <br/>
+           8473 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126611.0#msg3215930">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 01 May 2026, 15:14:44
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/exclamation.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_2029543">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.0">
+              [GB] F104+SSK+122+62+77+50+Ergo orders now open! Kishsaver+Industrial Model F
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41730" title="View the profile of Ellipse">
+              Ellipse
+             </a>
+             <small id="pages2029543">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.100">
+               3
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.150">
+               4
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.200">
+               5
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.250">
+               6
+              </a>
+              <span onclick="expandPages(this, 'https://geekhack.org/index.php?topic=79141.%1$d', 300, 3550, 50);" onmouseover="this.style.cursor='pointer';" style="font-weight: bold;">
+               ...
+              </span>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.3550">
+               72
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           3564 Replies
+           <br/>
+           2984086 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=79141.3550#msg3215896">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 29 April 2026, 20:00:01
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41730">
+            Ellipse
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/lamp.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3208647">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125620.0">
+              [GB] KAT Retrobytes - Live till Oct 5th 2025
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=111634" title="View the profile of SxM Designs">
+              SxM Designs
+             </a>
+             <small id="pages3208647">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           9 Replies
+           <br/>
+           11342 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125620.0#msg3215894">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 29 April 2026, 19:38:26
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=20695">
+            phinix
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3203642">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125091.0">
+              [GB] Link - Split ergo keyboard (with wireless option!) - GB live 05/16
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=73495" title="View the profile of upas">
+              upas
+             </a>
+             <small id="pages3203642">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           3 Replies
+           <br/>
+           7716 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125091.0#msg3215848">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 27 April 2026, 15:58:56
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=73495">
+            upas
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/clip.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215310">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126569.0">
+              [GB] KeyMaze Geometric Fairytale | April 7 - 27
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=169146" title="View the profile of KeyMaze">
+              KeyMaze
+             </a>
+             <small id="pages3215310">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           4 Replies
+           <br/>
+           4992 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126569.0#msg3215828">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sun, 26 April 2026, 14:53:23
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3212474">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126158.0">
+              [GB] Xteeeeeeeeeeeeeeeeeeeeeeeee! 8K Rebel Edition
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=128002" title="View the profile of Thebloodyez">
+              Thebloodyez
+             </a>
+             <small id="pages3212474">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           11 Replies
+           <br/>
+           6729 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126158.0#msg3215827">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sun, 26 April 2026, 12:22:02
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=156747">
+            kenny_25
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215093">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126533.0">
+              [GB]篆Seal TKL - The GB will be launched on March 23rd!
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=168275" title="View the profile of SENSY LAB">
+              SENSY LAB
+             </a>
+             <small id="pages3215093">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           2 Replies
+           <br/>
+           2860 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126533.0#msg3215826">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sun, 26 April 2026, 12:16:57
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=156747">
+            kenny_25
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215188">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126552.0">
+              GMK CYL Centinela Extension Kit
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=77503" title="View the profile of vheissu">
+              vheissu
+             </a>
+             <small id="pages3215188">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           16 Replies
+           <br/>
+           10281 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126552.0#msg3215793">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 25 April 2026, 16:33:22
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/smiley.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215041">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126531.0">
+              [GB] Nyawice | ALL VENDORS LIVE 🐈
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=111554" title="View the profile of hali">
+              hali
+             </a>
+             <small id="pages3215041">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           21 Replies
+           <br/>
+           13601 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126531.0#msg3215788">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 25 April 2026, 02:06:07
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134327">
+            minicap
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/smiley.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215028">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126529.0">
+              [GB] MW Gesha | Group buying and pre-orders are now available globally!
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=164664" title="View the profile of örange_stone">
+              örange_stone
+             </a>
+             <small id="pages3215028">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           3 Replies
+           <br/>
+           2946 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126529.0#msg3215721">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 22 April 2026, 20:23:37
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3039978">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.0">
+              [GB] GMK Zooted - Delivering. Extras available now/soon!
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=62090" title="View the profile of futurecrime">
+              futurecrime
+             </a>
+             <small id="pages3039978">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.100">
+               3
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           119 Replies
+           <br/>
+           74867 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=112381.100#msg3215718">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 22 April 2026, 17:36:04
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/clip.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3073179">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.0">
+              Beam Spring 104+SSK+122+62 Reproduction Project! Round 1 now shipping
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41730" title="View the profile of Ellipse">
+              Ellipse
+             </a>
+             <small id="pages3073179">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.100">
+               3
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.150">
+               4
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           190 Replies
+           <br/>
+           397802 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=114105.150#msg3215714">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 22 April 2026, 03:44:35
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41730">
+            Ellipse
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_2568251">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.0">
+              [GB] KIRA EXS - Complete
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=58680" title="View the profile of beamingrobot">
+              beamingrobot
+             </a>
+             <small id="pages2568251">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.100">
+               3
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.150">
+               4
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.200">
+               5
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.250">
+               6
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           275 Replies
+           <br/>
+           111348 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=94290.250#msg3215684">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Mon, 20 April 2026, 19:22:45
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=66494">
+            Aktavate
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/grin.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214222">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126418.0">
+              [GB] GMK CYL Green Alert | March 3rd - April 3rd
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=133877" title="View the profile of mcmcmc">
+              mcmcmc
+             </a>
+             <small id="pages3214222">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           15 Replies
+           <br/>
+           12183 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126418.0#msg3215655">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 18 April 2026, 14:46:56
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214890">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126513.0">
+              [GB] DCS Olivetti | 27th March - 13th April
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=133877" title="View the profile of mcmcmc">
+              mcmcmc
+             </a>
+             <small id="pages3214890">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           14 Replies
+           <br/>
+           10943 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126513.0#msg3215640">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 17 April 2026, 20:18:54
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215613">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126610.0">
+              [In-stock] GMK CYL Quaderno - An Olivetti-Inspired Set
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=155372" title="View the profile of Gtour">
+              Gtour
+             </a>
+             <small id="pages3215613">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           2 Replies
+           <br/>
+           3894 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126610.0#msg3215628">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 17 April 2026, 13:38:57
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=155372">
+            Gtour
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_2491864">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.0">
+              [GB]CAMP C225 80% and CAMP PAD Custom Aluminum Keyboard
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=60612" title="View the profile of SuperVan">
+              SuperVan
+             </a>
+             <small id="pages2491864">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.100">
+               3
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.150">
+               4
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.200">
+               5
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.250">
+               6
+              </a>
+              <span onclick="expandPages(this, 'https://geekhack.org/index.php?topic=91571.%1$d', 300, 350, 50);" onmouseover="this.style.cursor='pointer';" style="font-weight: bold;">
+               ...
+              </span>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.350">
+               8
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           358 Replies
+           <br/>
+           131825 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=91571.350#msg3215577">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Thu, 16 April 2026, 08:23:05
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=165496">
+            caijier
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215423">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126581.0">
+              [GB] Sonic170V2 by Rein.Works | Live until April 30th!
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717" title="View the profile of ClickClack.io">
+              ClickClack.io
+             </a>
+             <small id="pages3215423">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           0 Replies
+           <br/>
+           3954 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126581.0#msg3215423">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Thu, 09 April 2026, 15:27:17
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717">
+            ClickClack.io
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/hot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3062699">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=113538.0">
+              [GB] GMK Foundation - Shipping to Vendors Soon
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=73835" title="View the profile of HungHingDaiLo">
+              HungHingDaiLo
+             </a>
+             <small id="pages3062699">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=113538.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=113538.50">
+               2
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=113538.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           62 Replies
+           <br/>
+           55744 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=113538.50#msg3215332">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Tue, 07 April 2026, 01:14:33
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=168876">
+            gmk_keycaps
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214415">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126456.0">
+              [GB] DCS Solar Green 03/09 - 03/23/2026
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=155257" title="View the profile of Patty">
+              Patty
+             </a>
+             <small id="pages3214415">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           15 Replies
+           <br/>
+           12144 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126456.0#msg3215273">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sat, 04 April 2026, 16:08:30
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=52009">
+            dvorcol
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215241">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126557.0">
+              [GB] GMK CYL Power 2048
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=69731" title="View the profile of biip">
+              biip
+             </a>
+             <small id="pages3215241">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           2 Replies
+           <br/>
+           3113 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126557.0#msg3215247">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 03 April 2026, 11:59:02
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096">
+            HoffmanMyster
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3215179">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126551.0">
+              [GB] Equilibrium by ScribbleB | Mar 31st - April 21st
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717" title="View the profile of ClickClack.io">
+              ClickClack.io
+             </a>
+             <small id="pages3215179">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           1 Replies
+           <br/>
+           3069 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126551.0#msg3215246">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 03 April 2026, 11:58:40
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096">
+            HoffmanMyster
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_2989850">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.0">
+              [GB] GMK Gregory (Dec 10th - Jan 18th) Final Numbers Posted
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=53741" title="View the profile of chamelemon_64">
+              chamelemon_64
+             </a>
+             <small id="pages2989850">
+              «
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.0">
+               1
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.50">
+               2
+              </a>
+              <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.100">
+               3
+              </a>
+              <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.0;all">
+               All
+              </a>
+              »
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           110 Replies
+           <br/>
+           123016 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=110101.100#msg3215177">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 01 April 2026, 15:39:03
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=41424">
+            pancake
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214659">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126493.0">
+              [GB] Katina TKL - Classic &amp; Deluxe Editions - March 17th (GB Date Extended)
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717" title="View the profile of ClickClack.io">
+              ClickClack.io
+             </a>
+             <small id="pages3214659">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           5 Replies
+           <br/>
+           5814 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126493.0#msg3215014">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Sun, 29 March 2026, 05:08:37
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=66364">
+            nathanchere
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214177">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126412.0">
+              [GB] Finn 60XT | GB February 25th, 2026 - March 30th, 2026
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717" title="View the profile of ClickClack.io">
+              ClickClack.io
+             </a>
+             <small id="pages3214177">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           3 Replies
+           <br/>
+           6034 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126412.0#msg3214964">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 27 March 2026, 21:27:15
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=166023">
+            baucts
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214040">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126397.0">
+              [GB] DCS Cream Cheese and Green R3 | Orders Underway (Apr 28th, 2026)
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=165441" title="View the profile of yoonelec">
+              yoonelec
+             </a>
+             <small id="pages3214040">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           12 Replies
+           <br/>
+           11394 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126397.0#msg3214963">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 27 March 2026, 20:22:51
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=165441">
+            yoonelec
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214089">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126401.0">
+              [GB] NP-R - Numpad Retro. MOQ MET, 100+ units sold, ONE WEEK LEFT !
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=160917" title="View the profile of Bagri">
+              Bagri
+             </a>
+             <small id="pages3214089">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           13 Replies
+           <br/>
+           10625 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126401.0#msg3214942">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Fri, 27 March 2026, 05:26:39
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=160917">
+            Bagri
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/clip.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3209827">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125737.0">
+              [GB] Osidian TKL V2 | Sept 15 - Oct 15
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=160949" title="View the profile of Osidian">
+              Osidian
+             </a>
+             <small id="pages3209827">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           3 Replies
+           <br/>
+           11143 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=125737.0#msg3214917">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Thu, 26 March 2026, 14:20:36
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=160949">
+            Osidian
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3214726">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126499.0">
+              [GB] MW Endpoint | 21 Mar - 11 Apr
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=163762" title="View the profile of Minisofu">
+              Minisofu
+             </a>
+             <small id="pages3214726">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           1 Replies
+           <br/>
+           2415 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126499.0#msg3214910">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Thu, 26 March 2026, 11:37:18
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=25096">
+            HoffmanMyster
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3211656">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126012.0">
+              [GB/Pre-Order] Syrin TKL by Rien.Works | Nov 15th - Dec 15th
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=134717" title="View the profile of ClickClack.io">
+              ClickClack.io
+             </a>
+             <small id="pages3211656">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           4 Replies
+           <br/>
+           6654 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126012.0#msg3214867">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Wed, 25 March 2026, 09:01:10
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=168571">
+            schizobovine
+           </a>
+          </td>
+         </tr>
+         <tr>
+          <td class="icon1 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+          </td>
+          <td class="icon2 windowbg">
+           <img alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/post/xx.gif"/>
+          </td>
+          <td class="subject windowbg2">
+           <div>
+            <span id="msg_3213991">
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126394.0">
+              [In-Stock] Astro Domes - BKE Style Tactile EC Domes
+             </a>
+            </span>
+            <p>
+             Started by
+             <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=26415" title="View the profile of BlindAssassin111">
+              BlindAssassin111
+             </a>
+             <small id="pages3213991">
+             </small>
+            </p>
+           </div>
+          </td>
+          <td class="stats windowbg">
+           5 Replies
+           <br/>
+           7848 Views
+          </td>
+          <td class="lastpost windowbg2">
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=126394.0#msg3214855">
+            <img alt="Last post" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/last_post.gif" title="Last post"/>
+           </a>
+           Tue, 24 March 2026, 22:09:11
+           <br/>
+           by
+           <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=169727">
+            miascott63
+           </a>
+          </td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+      <a id="bot">
+      </a>
+      <div class="pagesection">
+       <div class="pagelinks">
+        Pages:  [
+        <strong>
+         1
+        </strong>
+        ]
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.50">
+         2
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.100">
+         3
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.150">
+         4
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.200">
+         5
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.250">
+         6
+        </a>
+        <span onclick="expandPages(this, 'https://geekhack.org/index.php?board=70.%1$d', 300, 2950, 50);" onmouseover="this.style.cursor='pointer';" style="font-weight: bold;">
+         ...
+        </span>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.2950">
+         60
+        </a>
+        <a class="navPages" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.50">
+         »
+        </a>
+        <a href="#top">
+         <strong>
+          Go Up
+         </strong>
+        </a>
+       </div>
+      </div>
+      <div class="navigate_section">
+       <ul>
+        <li>
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;">
+          <span>
+           geekhack
+          </span>
+         </a>
+         »
+        </li>
+        <li>
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;#c49">
+          <span>
+           geekhack Marketplace
+          </span>
+         </a>
+         »
+        </li>
+        <li class="last">
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;board=70.0">
+          <span>
+           Group Buys and Preorders
+          </span>
+         </a>
+         (Moderator:
+         <a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=profile;u=31271" title="Board Moderator">
+          Signature
+         </a>
+         )
+        </li>
+       </ul>
+      </div>
+      <div class="tborder" id="topic_icons">
+       <div class="description">
+        <p class="floatright" id="message_index_jump_to">
+        </p>
+        <p class="floatleft smalltext">
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_post.gif"/>
+         Normal Topic
+         <br/>
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/hot_post.gif"/>
+         Hot Topic (More than 40 replies)
+         <br/>
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/veryhot_post.gif"/>
+         Very Hot Topic (More than 70 replies)
+        </p>
+        <p class="smalltext">
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/quick_lock.gif"/>
+         Locked Topic
+         <br/>
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/icons/quick_sticky.gif"/>
+         Sticky Topic
+         <br/>
+         <img align="middle" alt="" src="https://cdn.geekhack.org/Themes/Nostalgia/images/topic/normal_poll.gif"/>
+         Poll
+        </p>
+        <script type="text/javascript">
+         <!-- // --><![CDATA[
+				if (typeof(window.XMLHttpRequest) != "undefined")
+					aJumpTo[aJumpTo.length] = new JumpTo({
+						sContainerId: "message_index_jump_to",
+						sJumpToTemplate: "<label class=\"smalltext\" for=\"%select_id%\">Jump to:<" + "/label> %dropdown_list%",
+						iCurBoardId: 70,
+						iCurBoardChildLevel: 0,
+						sCurBoardName: "Group Buys and Preorders",
+						sBoardChildLevelIndicator: "==",
+						sBoardPrefix: "=> ",
+						sCatSeparator: "-----------------------------",
+						sCatPrefix: "",
+						sGoButtonLabel: "Go!"
+					});
+			// ]]>
+        </script>
+        <br class="clear"/>
+       </div>
+      </div>
+      <script src="https://cdn.geekhack.org/Themes/default/scripts/topic.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       <!-- // --><![CDATA[
+
+	// Hide certain bits during topic edit.
+	hide_prefixes.push("lockicon", "stickyicon", "pages", "newicon");
+
+	// Use it to detect when we've stopped editing.
+	document.onclick = modify_topic_click;
+
+	var mouse_on_div;
+	function modify_topic_click()
+	{
+		if (in_edit_mode == 1 && mouse_on_div == 0)
+			modify_topic_save("614d714384bda2df0781f112a4505ed1", "e5550fb8bd");
+	}
+
+	function modify_topic_keypress(oEvent)
+	{
+		if (typeof(oEvent.keyCode) != "undefined" && oEvent.keyCode == 13)
+		{
+			modify_topic_save("614d714384bda2df0781f112a4505ed1", "e5550fb8bd");
+			if (typeof(oEvent.preventDefault) == "undefined")
+				oEvent.returnValue = false;
+			else
+				oEvent.preventDefault();
+		}
+	}
+
+	// For templating, shown when an inline edit is made.
+	function modify_topic_show_edit(subject)
+	{
+		// Just template the subject.
+		setInnerHTML(cur_subject_div, '<input type="text" name="subject" value="' + subject + '" size="60" style="width: 95%;" maxlength="80" onkeypress="modify_topic_keypress(event)" class="input_text" /><input type="hidden" name="topic" value="' + cur_topic_id + '" /><input type="hidden" name="msg" value="' + cur_msg_id.substr(4) + '" />');
+	}
+
+	// And the reverse for hiding it.
+	function modify_topic_hide_edit(subject)
+	{
+		// Re-template the subject!
+		setInnerHTML(cur_subject_div, '<a href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;topic=' + cur_topic_id + '.0">' + subject + '<' +'/a>');
+	}
+
+// ]]>
+      </script>
+     </div>
+    </div>
+   </div>
+   <div id="footer_section">
+    <div class="frame">
+     <ul class="reset">
+      <li class="copyright">
+       <span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;">
+        <a class="new_win" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=credits" target="_blank" title="Simple Machines Forum">
+         SMF 2.0.15.10
+        </a>
+        |
+        <a class="new_win" href="http://www.simplemachines.org/about/smf/license.php" target="_blank" title="License">
+         SMF © 2017
+        </a>
+        ,
+        <a class="new_win" href="http://www.simplemachines.org" target="_blank" title="Simple Machines">
+         Simple Machines
+        </a>
+       </span>
+      </li>
+      <li>
+       <a class="new_win" href="http://validator.w3.org/check?uri=referer" id="button_xhtml" target="_blank" title="Valid XHTML 1.0!">
+        <span>
+         XHTML
+        </span>
+       </a>
+      </li>
+      <li>
+       <a class="new_win" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;action=.xml;type=rss" id="button_rss">
+        <span>
+         RSS
+        </span>
+       </a>
+      </li>
+      <li class="last">
+       <a class="new_win" href="https://geekhack.org/index.php?PHPSESSID=vkvl9nkgqaqivlffj0ik246pte41adbh&amp;wap2" id="button_wap2">
+        <span>
+         WAP2
+        </span>
+       </a>
+      </li>
+     </ul>
+     <p>
+      Page created in 0.115 seconds with 12 queries.
+     </p>
+    </div>
+   </div>
+  </div>
+  <!-- HS-4-SMF -->
+  <script src="https://cdn.geekhack.org/Themes/default/hs4smf/highslide.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   <!-- // --><![CDATA[
+hs.graphicsDir = 'https://cdn.geekhack.org/Themes/default/hs4smf/graphics/';
+hs.showCredits = false;
+hs.fadeInOut = true;
+hs.transitions = ['expand', 'crossfade'];
+hs.align = 'center';
+hs.padToMinWidth = true;
+hs.lang = {
+cssDirection:'ltr',
+loadingText:'Loading...',
+loadingTitle:'Click to cancel',
+focusTitle:'Click to bring to front',
+fullExpandTitle:'Expand to actual size',
+creditsText:'Powered by <i>Highslide JS</i>',
+creditsTitle:'Go to the Highslide JS homepage',
+previousText:'Previous',
+nextText:'Next',
+moveText:'Move',
+closeText:'Close',
+closeTitle:'Close (esc)',
+resizeTitle:'Resize',
+playText:'Play',
+playTitle:'Play slideshow (spacebar)',
+pauseText:'Pause',
+pauseTitle:'Pause slideshow (spacebar)',
+previousTitle:'Previous (arrow left)',
+nextTitle:'Next (arrow right)',
+moveTitle:'Move',
+fullExpandText:'Full size',
+number:'Image %1 of %2',
+restoreTitle:'Click to close image, click and drag to move. Use arrow keys for next and previous.',
+};hs.captionEval = 'if (this.slideshowGroup == "aeva") {this.highslide-caption} else {""} ';
+hs.captionOverlay.position = 'below';
+hs.captionOverlay.width = '100%';
+hs.headingOverlay.width = '100%';
+hs.captionOverlay.hideOnMouseOut = true;
+hs.headingOverlay.hideOnMouseOut = true;
+hs.captionOverlay.opacity = 0.9;
+hs.headingOverlay.opacity = 0.9;
+hs.outlineType = 'rounded-white';
+hs.dimmingOpacity = 0.3;
+hs.wrapperClassName = 'controls-in-heading';
+// ]]>
+  </script>
+ </body>
+</html>

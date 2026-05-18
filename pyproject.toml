@@ -1,0 +1,21 @@
+[project]
+name = "boards"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "argon2-cffi>=25.1.0",
+    "beautifulsoup4>=4.14.3",
+    "boto3>=1.43.2",
+    "django>=6.0.4",
+    "django-environ>=0.13.0",
+    "django-extensions>=4.1",
+    "django-htmx>=1.27.0",
+    "httpx>=0.28.1",
+    "ipython>=9.13.0",
+    "psycopg2-binary>=2.9.12",
+    "pytest>=9.0.3",
+    "pytest-django>=4.12.0",
+    "types-beautifulsoup4>=4.12.0.20250516",
+]

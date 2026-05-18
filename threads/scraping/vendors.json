@@ -1,0 +1,2162 @@
+[
+  {
+    "region": "USA",
+    "name": "Kinetic Labs",
+    "url": "https://kineticlabs.store/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Omnitype",
+    "url": "http://omnitype.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Mode Designs",
+    "url": "https://modedesigns.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Novelkeys",
+    "url": "https://novelkeys.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Bowl Keyboards",
+    "url": "https://bowlkeyboards.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Wired In Store",
+    "url": "https://wiredinstore.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Dangkeebs",
+    "url": "https://dangkeebs.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": "alexotos for 5% off"
+  },
+  {
+    "region": "USA",
+    "name": "Mechanical Keyboards",
+    "url": "https://mechanicalkeyboards.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Cannon Keys",
+    "url": "https://cannonkeys.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Divinikey",
+    "url": "http://divinikey.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Keyspensory",
+    "url": "https://keyspensory.store/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Keebfront",
+    "url": "https://keebfront.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Odin PC",
+    "url": "https://www.odinpc.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Lume Keebs",
+    "url": "https://lumekeebs.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": "alexotos for 5% off"
+  },
+  {
+    "region": "USA",
+    "name": "Flashquark",
+    "url": "https://flashquark.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "DROP",
+    "url": "https://drop.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "ClickClack",
+    "url": "https://clickclack.io/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Ordinary Labs",
+    "url": "https://ordinarylabs.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Misc"
+    ],
+    "categories_raw": "Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Originative Co",
+    "url": "https://www.originativeco.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Prime Keyboards",
+    "url": "https://www.primekb.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Keycult",
+    "url": "https://keycult.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits"
+    ],
+    "categories_raw": "Keyboard Kits",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "American Haptics",
+    "url": "https://american-haptics.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "pkkeyboards",
+    "url": "https://pkkeyboards.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": "alexotos for 5% off!"
+  },
+  {
+    "region": "USA",
+    "name": "Thockpop",
+    "url": "https://thockpop.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "KeebsForAll",
+    "url": "https://keebsforall.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Stupid Bullets Tech",
+    "url": "https://stupidbulletstech.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboards",
+      "Parts & Accessories"
+    ],
+    "categories_raw": "Keyboards, Parts & Accessories",
+    "code": "alexotos for 5% off"
+  },
+  {
+    "region": "USA",
+    "name": "Asceny Gear",
+    "url": "https://asceny.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits"
+    ],
+    "categories_raw": "Keyboard Kits",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Teal Technik",
+    "url": "https://tealtechnik.com/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Little Keyboards",
+    "url": "https://www.littlekeyboards.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Ringerkeys",
+    "url": "https://ringerkeys.com/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Clawsome Boards",
+    "url": "https://www.clawboards.xyz/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Keeb.io",
+    "url": "https://keeb.io/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits"
+    ],
+    "categories_raw": "Keyboard Kits",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "1upkeyboards",
+    "url": "https://1upkeyboards.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Hippokeys",
+    "url": "https://hippokeys.com/",
+    "tier": "none",
+    "categories": [
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Invokeys Co.",
+    "url": "https://invokeys.com/",
+    "tier": "none",
+    "categories": [
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Upgrade Keyboards",
+    "url": "http://upgradekeyboards.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Milktooth",
+    "url": "https://milktooth.nu/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Switches",
+      "Keycaps"
+    ],
+    "categories_raw": "Keyboard Kits, Switches, Keycaps",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Nonamekeys",
+    "url": "https://nonamekeys.com/",
+    "tier": "none",
+    "categories": [
+      "Artisans"
+    ],
+    "categories_raw": "Artisans",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Poverty Keys",
+    "url": "https://povertykeys.com/",
+    "tier": "none",
+    "categories": [
+      "Switches",
+      "Misc",
+      "Parts"
+    ],
+    "categories_raw": "Switches, Misc., Parts",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Keebhut",
+    "url": "https://keebhut.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Apos Audio",
+    "url": "https://apos.audio/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "Clackify",
+    "url": "https://clackify.com/",
+    "tier": "none",
+    "categories": [
+      "Switches"
+    ],
+    "categories_raw": "Switches",
+    "code": null
+  },
+  {
+    "region": "USA",
+    "name": "KBDcraft",
+    "url": "https://kbdcraft.store/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Mechboard.co.uk",
+    "url": "https://mechboards.co.uk/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Prototypist",
+    "url": "https://prototypist.net/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Thocc Exchange",
+    "url": "https://thoccexchange.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Mechbox",
+    "url": "https://mechbox.co.uk/",
+    "tier": "none",
+    "categories": [
+      "Switches",
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Switches, Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "OZO Keyboards",
+    "url": "http://ozokeyboards.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Keebcats",
+    "url": "https://keebcats.co.uk/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Keycrox",
+    "url": "https://www.keycrox.co.uk/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "MechMods",
+    "url": "https://www.mechmods.co.uk/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "UK",
+    "name": "Serpent Keys",
+    "url": "https://www.serpentkeys.co.uk/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Other",
+    "name": "Keyhive",
+    "url": "https://keyhive.xyz/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Parts",
+    "code": null
+  },
+  {
+    "region": "Other",
+    "name": "Kea Workshop",
+    "url": "https://www.keaworkshop.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Other",
+    "name": "Splitted Space",
+    "url": "https://splitted.space/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Misc",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Misc., Parts",
+    "code": null
+  },
+  {
+    "region": "India",
+    "name": "StacksKB",
+    "url": "https://stackskb.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "India",
+    "name": "Meckeys",
+    "url": "https://www.meckeys.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "India",
+    "name": "Neo Macro",
+    "url": "https://neomacro.in/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "India",
+    "name": "CtrlShiftStore",
+    "url": "https://ctrlshiftstore.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "RGBKeys",
+    "url": "https://rgbkeys.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Switches, Misc.",
+    "code": "ALEXANDERALEXOT for 10% off"
+  },
+  {
+    "region": "Europe",
+    "name": "Oblotzky.Industries",
+    "url": "https://oblotzky.industries/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Antipode",
+    "url": "https://www.antipode.no/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Salvun",
+    "url": "https://salvun.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Artisans",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Artisans, Parts",
+    "code": "AlexTatos 5% discount on orders of 50Euro and up"
+  },
+  {
+    "region": "Europe",
+    "name": "Delta Key Co",
+    "url": "https://deltakeyco.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "KeebMat",
+    "url": "https://keebmat.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Misc"
+    ],
+    "categories_raw": "Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Eloquent Clicks",
+    "url": "https://www.eloquentclicks.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "GMK Official Store",
+    "url": "https://www.gmk.net/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keycaps",
+      "Keyboard Kits",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Keyboard Kits, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "FalbaTech",
+    "url": "https://falbatech.click/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Splitkb",
+    "url": "https://splitkb.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "MonacoKeys",
+    "url": "https://monacokeys.de/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Whiplash Design",
+    "url": "https://whiplashdesign.eu/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": "ALEXOTOS for 5% off!"
+  },
+  {
+    "region": "Europe",
+    "name": "Keycapsss",
+    "url": "https://keycapsss.com/",
+    "tier": "none",
+    "categories": [
+      "Keycaps",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "42. Keebs",
+    "url": "https://42keebs.eu/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "KBnordic",
+    "url": "https://kbnordic.eu/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Maxgaming",
+    "url": "https://www.maxgaming.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "keyoo",
+    "url": "https://keyoo-keyboards.de/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Cable Hero",
+    "url": "https://cableshero.com/",
+    "tier": "none",
+    "categories": [
+      "Cables"
+    ],
+    "categories_raw": "Cables",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Geekboards",
+    "url": "https://geekboards.de/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Le Clavier",
+    "url": "https://www.leclavier.shop/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Coffeekeys",
+    "url": "https://coffeekeys.eu/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "KHOR",
+    "url": "https://khor.store/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Misc",
+      "Cables",
+      "Keycaps"
+    ],
+    "categories_raw": "Parts, Misc., Cables, Keycaps",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "Rationalkeys",
+    "url": "http://www.rationalkeys.com.tr/",
+    "tier": "none",
+    "categories": [
+      "Switches",
+      "Keyboard Kits",
+      "Keycaps",
+      "Parts"
+    ],
+    "categories_raw": "Switches, Keyboard Kits, Keycaps, Parts",
+    "code": null
+  },
+  {
+    "region": "Europe",
+    "name": "KeebSupply",
+    "url": "https://keeb.supply/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Central/South America",
+    "name": "Fancy Customs",
+    "url": "https://fancycustoms.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Central/South America",
+    "name": "LatamKeys",
+    "url": "https://latamkeys.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Deskhero",
+    "url": "https://www.deskhero.ca/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": "alexotos for small discount"
+  },
+  {
+    "region": "Canada",
+    "name": "Unikeys",
+    "url": "https://unikeyboards.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": "alexotos for a discount!"
+  },
+  {
+    "region": "Canada",
+    "name": "Keybay.tech",
+    "url": "https://keybay.tech/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Keyspresso",
+    "url": "https://keyspresso.ca/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc",
+      "Artisans",
+      "Cables"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc., Artisans, Cables",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "HypeKeyboards",
+    "url": "https://hypekeyboards.ca/",
+    "tier": "affiliate",
+    "categories": [
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "BeaverKeys",
+    "url": "https://beaverkeys.ca/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": "ALEXOTOS for 5% off!"
+  },
+  {
+    "region": "Canada",
+    "name": "Zeal",
+    "url": "https://zealpc.net/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "ApexKeyboards",
+    "url": "https://www.apexkeyboards.ca/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Vintkeys",
+    "url": "https://vintkeys.ca/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Minokeys",
+    "url": "https://minokeys.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Mech Land",
+    "url": "https://mech.land/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Malvix Studio",
+    "url": "https://store.malvix.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "RNDKBD",
+    "url": "https://rndkbd.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": "ALEXTHEGOAT for 5% off"
+  },
+  {
+    "region": "Canada",
+    "name": "Shockport",
+    "url": "https://shockport.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Cables",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Cables, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Osume Keys",
+    "url": "https://www.osumekeys.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Feng Studio",
+    "url": "https://fengstudio.ca/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Keyz.io",
+    "url": "https://keyz.io/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits"
+    ],
+    "categories_raw": "Keyboard Kits",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "X-Bows",
+    "url": "https://x-bows.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Cables",
+      "Misc",
+      "Switches",
+      "Keycaps"
+    ],
+    "categories_raw": "Keyboard Kits, Cables, Misc., Switches, Keycaps",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "TurtleKeebs",
+    "url": "https://turtlekeebs.com/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Clickety Split",
+    "url": "https://clicketysplit.ca/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "MajorKB",
+    "url": "https://www.majorkb.com/",
+    "tier": "none",
+    "categories": [
+      "Parts"
+    ],
+    "categories_raw": "Parts",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Omega Keys",
+    "url": "https://omegakeys.ca/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "ONEofZero",
+    "url": "https://oneofzero.net/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Toronto KeyboardMan",
+    "url": "https://torontokeyboardman.ca/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "Artificer Keycaps",
+    "url": "https://artificerkeycaps.com/",
+    "tier": "none",
+    "categories": [
+      "Artisans"
+    ],
+    "categories_raw": "Artisans",
+    "code": null
+  },
+  {
+    "region": "Canada",
+    "name": "3dKeycap",
+    "url": "https://3dkeycap.com/",
+    "tier": "none",
+    "categories": [
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Hibi MX",
+    "url": "https://hibi.mx/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Misc",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Misc., Parts",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Switchkeys Australia",
+    "url": "https://www.switchkeys.com.au/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Switches",
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Switches, Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Keyboard Treehouse",
+    "url": "https://keyboardtreehouse.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "KeebNCables",
+    "url": "https://www.keebzncables.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Misc",
+      "Artisans",
+      "Cables",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Misc., Artisans, Cables, Switches",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Cafege",
+    "url": "https://cafege.com.au/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc",
+      "Cables",
+      "Artisans"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc., Cables, Artisans",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "BerserKeys",
+    "url": "https://berserkeys.com.au/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "MtnKbd",
+    "url": "https://mtnkbd.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Parts",
+      "Switches",
+      "Misc",
+      "Cables",
+      "Artisans"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Parts, Switches, Misc., Cables, Artisans",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Mechstock",
+    "url": "https://mechstock.com.au/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc",
+      "Cables",
+      "Keycaps"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc., Cables, Keycaps",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Custom KBD",
+    "url": "https://customkbd.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Thocc Supply",
+    "url": "https://thocc.supply/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Switches",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "Keebd",
+    "url": "https://keebd.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Switches",
+      "Keycaps",
+      "Misc",
+      "Cables",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Switches, Keycaps, Misc., Cables, Parts",
+    "code": null
+  },
+  {
+    "region": "Australia",
+    "name": "CLS Tech",
+    "url": "https://clstech.com.au/",
+    "tier": "none",
+    "categories": [
+      "Keycaps",
+      "Switches",
+      "Cables",
+      "Misc",
+      "Keyboard Kits",
+      "Parts"
+    ],
+    "categories_raw": "Keycaps, Switches, Cables, Misc., Keyboard Kits, Parts",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Qwertykeys",
+    "url": "https://www.qwertykeys.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Ktechs",
+    "url": "https://ktechs.store/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Meletrix",
+    "url": "https://meletrix.com/",
+    "tier": "affiliate",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "LuminKey",
+    "url": "https://www.luminkey.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Chosfox",
+    "url": "https://chosfox.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Graystudio",
+    "url": "https://graystudio.club/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits"
+    ],
+    "categories_raw": "Keyboard Kits",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "kprepublic",
+    "url": "https://kprepublic.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Monstargear",
+    "url": "https://www.monstargears.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "iLumKB",
+    "url": "https://ilumkb.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "zFrontier",
+    "url": "https://en.zfrontier.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Swagkeys",
+    "url": "https://swagkeys.com/",
+    "tier": "personally_ordered",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Kibou",
+    "url": "https://kibou.store/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches",
+    "code": "alexotos for 5% off"
+  },
+  {
+    "region": "Asia",
+    "name": "Wuque Studio",
+    "url": "https://shop.wuquestudio.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "KBDfans",
+    "url": "https://kbdfans.com/",
+    "tier": "sponsor",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Artisans",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Artisans, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Aiglatson Studio",
+    "url": "https://aiglatsonstudio.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc",
+      "Cables"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc., Cables",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Melgeek",
+    "url": "https://www.melgeek.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc",
+      "Cables"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc., Cables",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Yushakobo.jp",
+    "url": "https://yushakobo.jp/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc",
+      "Artisans",
+      "Cables"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc., Artisans, Cables",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Mechkey Store",
+    "url": "https://mechkey.store/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Keycaps",
+      "Misc",
+      "Artisans",
+      "Cables",
+      "Parts",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Keycaps, Misc., Artisans, Cables, Parts, Switches",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Pantheon Keys",
+    "url": "https://pantheonkeys.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Switches",
+      "Misc",
+      "Cables"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Switches, Misc., Cables",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Momoka",
+    "url": "https://www.momoka.co/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Basekeys",
+    "url": "https://basekeys.jp/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Geon Works",
+    "url": "https://geon.works/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Switches",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Switches, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "Talpkeyboard",
+    "url": "https://shop.talpkeyboard.com/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "GoblinTechKeys",
+    "url": "https://goblintechkeys.com/",
+    "tier": "none",
+    "categories": [
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "ChillKey",
+    "url": "https://chilkey.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Misc",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Misc., Switches",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "YUZU Keycaps",
+    "url": "https://yuzukeycaps.com/",
+    "tier": "none",
+    "categories": [
+      "Keycaps"
+    ],
+    "categories_raw": "Keycaps",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "FKcaps",
+    "url": "https://shop.fkcaps.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts"
+    ],
+    "categories_raw": "Keyboard Kits, Parts",
+    "code": null
+  },
+  {
+    "region": "Asia",
+    "name": "KeyPro",
+    "url": "https://keyprokb.com/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Keycaps",
+      "Cables",
+      "Misc",
+      "Switches"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Keycaps, Cables, Misc., Switches",
+    "code": null
+  },
+  {
+    "region": "Africa",
+    "name": "CtrlShiftEsc",
+    "url": "https://www.ctrlshiftesc.co.za/",
+    "tier": "none",
+    "categories": [
+      "Keyboard Kits",
+      "Parts",
+      "Misc"
+    ],
+    "categories_raw": "Keyboard Kits, Parts, Misc.",
+    "code": null
+  },
+  {
+    "region": "Africa",
+    "name": "Cookie Atom",
+    "url": "https://www.cookieatom.com/",
+    "tier": "none",
+    "categories": [
+      "Misc"
+    ],
+    "categories_raw": "Misc.",
+    "code": null
+  }
+]

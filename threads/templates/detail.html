@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block title %}{{thread.title}} | Boards{% endblock %}
+
+{% comment %} {% block stylesheets %}
+    <link rel="stylesheet" href="{% static "home.css" %}">
+{% endblock %} {% endcomment %}
+
+{% block content %}
+    <div class="thread-header">
+        <div class="thread-header-main">
+            <h2 class="thread-title">{{thread.title}}</h2>
+            {% if thread.price %}
+                <h2 class="thread-price">{{thread.get_currency_display}}{{thread.price}}</span>
+            {% endif %}
+        </div>
+        {% if thread.author %}
+            <span class="thread-header-sub">By {{thread.author}}</span>
+        {% endif %}
+    </div>
+    <div class="thread-subheader">
+        <div class="thread-tags">
+            <span class="item-type tag">{{thread.get_item_type_display}}</span>
+            <span class="thread-type tag">{{thread.get_thread_type_display}}</span>
+        </div>
+        <div class="dates">
+            {% if thread.start_date %}
+                <span class="start-date">Start: {{thread.start_date}}</span>
+            {% endif %}
+            {% if thread.end_date %}
+                <span class="end-date">End: {{thread.end_date}}</span>
+            {% endif %}
+        </div>
+    </div>
+
+    <a class="thread-link" href="{{thread.external_url}}">Original Post</a>
+
+    <div class="image-scroll">
+        {% for image_url in thread.image_urls %}
+            <img src="{{image_url}}">
+        {% endfor %}
+    </div>
+
+    {% if thread.vendors %}
+        <div class="vendor-section">
+            <h3 class="vendor-section-title">Vendors</h3>
+            <ul class="vendor-list">
+                {% for vendor in thread.vendors %}
+                    <li class="vendor">{{vendor}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+{% endblock %}

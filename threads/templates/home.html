@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "home.css" %}">
+{% endblock %}
+
+{% block content %}
+    {% include "partials/thread_list.html" %}
+{% endblock %}

@@ -1,0 +1,50 @@
+{% load static %}
+{% load django_htmx %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{% block title %}Boards{% endblock %}</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <link rel="stylesheet" href="{% static "base.css" %}">
+        {% block stylesheets %}{% endblock %}
+        <script src="{% static "htmx.min.js" %}"/>
+        {% django_htmx_script %}
+    </head>
+
+    <body hx-headers='{"x-csrftoken": "{{ csrf_token }}"}'>
+        <nav>
+            <a class="navButton" href="{% url "home" %}">
+                <h1>boards.wiki</h1>
+            </a>
+            <ul>
+                <li>
+                    <a href="{% url "home" %}">Browse</a>
+                </li>
+                <li>
+                    <a href="{% url "wishlist" %}">Wishlist</a>
+                </li>
+                <li>
+                    <a href="{% url "compose" %}">Compose</a>
+                </li>
+                {% if user.is_authenticated %}
+                    <li>
+                        <a href="{% url "profile" %}">{{ user.username }}</a>
+                    </li>
+                {% else %}
+                    <li>
+                        <a href="{% url "login" %}">Log In</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </nav>
+        <main>
+            {% block content %}{% endblock content %}
+        </main>
+        {% comment %} TODO: idk if i need a footer but implement if necessary {% endcomment %}
+        {% comment %} <footer>
+            <div class="footer-nav"></div>
+            <div class="footer-other"></div>
+        </footer> {% endcomment %}
+    </body>
+</html>

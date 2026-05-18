@@ -1,0 +1,90 @@
+.thread-row {
+    position: relative;
+    border-radius: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    max-height: 200px;
+    background-color: white;
+    /* TODO: more later */
+}
+
+.thread-row:has(.thread-row-button:hover) {
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+.thread-row-button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: none;
+    border: none;
+    z-index: 1;
+    background-color: transparent;
+}
+
+.thread-row-button:hover {
+    cursor: pointer;
+}
+
+.thread-row > img {
+    /* z-index: 2; */
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.thread-row > h2 {
+    color: black; /* placeholder */
+    /* z-index: 2; */
+}
+
+.save-thread-button {
+    z-index: 2;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    background-color: transparent;
+    border: none;
+    font-size: xx-large;
+}
+
+.save-thread-button > * {
+    grid-row: 1;
+    grid-column: 1;
+}
+
+.fa-solid.fa-star {
+    color: gold;
+}
+
+.fa-solid.fa-star.hover-effect {
+    opacity: calc(40%);
+}
+
+.save-thread-button > .hover-effect {
+    display: none;
+}
+
+.save-thread-button:hover {
+    cursor: pointer;
+}
+
+.save-thread-button:hover > .hover-effect {
+    display: block;
+}
+
+.thread-row > .tag {
+    border: 1px solid black;
+}
+
+.page-controls {
+    display: flex;
+}
+
+.page-number {
+    font-size: 16px;
+}
