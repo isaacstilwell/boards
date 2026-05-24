@@ -4,14 +4,16 @@
             <img src="{{thread.primary_image_url}}">
             <h2 class="thread-title">{{thread.title}}</h2>
             <div class="thread-sub">
-                {% if thread.end_date %}
-                    <span class="tag">Ends {{thread.end_date}}</span>
-                {% endif %}
-                {% if thread.price %}
-                    <span class="tag">{{thread.get_currency_display}}{{thread.price}}</span>
-                {% endif %}
+                <div class="tags">
+                    {% if thread.end_date %}
+                        <span class="tag">Ends {{thread.end_date|date:"m/d"}}</span>
+                    {% endif %}
+                    {% if thread.price %}
+                        <span class="tag">{{thread.get_currency_display}}{{thread.price}}</span>
+                    {% endif %}
+                </div>
                 <button
-                    class="save-thread-button"
+                    class="save-thread-button "
                     hx-post="{% url "thread_save" thread.id %}"
                     hx-target="#wishlist-grid"
                     hx-swap="outerHTML"

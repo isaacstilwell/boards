@@ -3,6 +3,10 @@
 
 {% block title %}Profile | Boards{% endblock %}
 
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "profile.css" %}">
+{% endblock %}
+
 {% block content %}
     <form action="{% url 'logout' %}" method="post">
         {% csrf_token %}

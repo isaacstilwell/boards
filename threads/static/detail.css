@@ -1,0 +1,134 @@
+.thread-header {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    border-bottom: 1px solid #2a382a;
+}
+
+.thread-header h2 {
+    font-size: 32px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #2a382a;
+}
+
+.thread-header-main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.thread-title-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.thread-link {
+    color: #2a382a;
+}
+
+.thread-link:hover {
+    color: #6a776c;
+    cursor: pointer;
+}
+
+.thread-header-sub {
+    font-size: 16px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #2a382ac9;
+}
+
+.thread-subheader {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.thread-tags {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.thread-tags > .tag, .start-date, .end-date {
+    font-size: 12px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #2a382a;
+    padding: 4px 8px;
+    border: 1px solid #2a382a;
+}
+
+.dates {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.image-scroll {
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    overflow-x: auto;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    scrollbar-color: #2a382a white;
+    border: 1px solid #2a382a;
+}
+
+.image-scroll img {
+    max-width: 325px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.vendor-section {
+    font-size: 20px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.approve-reject-buttons {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.approve-reject-buttons > button {
+    flex-grow: 1;
+    border: 1px solid #2a382a;
+    padding: 10px 0px;
+    font-size: 20px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #bcbcbc;
+}
+
+.reject-button {
+    background-color: #6d4c4c;
+}
+
+.reject-button:hover {
+    cursor: pointer;
+    background-color: #986868;
+}
+
+.approve-button {
+    background-color: #2a382a;
+}
+
+.approve-button:hover {
+    cursor: pointer;
+    background-color: #6a776c;
+}
+
+
+
+
+
+

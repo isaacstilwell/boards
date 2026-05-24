@@ -4,6 +4,10 @@
 
 {% block title %}Wishlist | Boards{% endblock %}
 
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "wishlist.css" %}">
+{% endblock %}
+
 {% block content %}
     {% include "partials/wishlist_list.html" %}
 {% endblock %}

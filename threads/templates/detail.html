@@ -4,14 +4,19 @@
 
 {% block title %}{{thread.title}} | Boards{% endblock %}
 
-{% comment %} {% block stylesheets %}
-    <link rel="stylesheet" href="{% static "home.css" %}">
-{% endblock %} {% endcomment %}
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "detail.css" %}">
+{% endblock %}
 
 {% block content %}
     <div class="thread-header">
         <div class="thread-header-main">
-            <h2 class="thread-title">{{thread.title}}</h2>
+            <div class="thread-title-group">
+                <h2 class="thread-title">{{thread.title}}</h2>
+                <a class="thread-link" href="{{thread.external_url}}">
+                    <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                </a>
+            </div>
             {% if thread.price %}
                 <h2 class="thread-price">{{thread.get_currency_display}}{{thread.price}}</span>
             {% endif %}
@@ -35,8 +40,6 @@
         </div>
     </div>
 
-    <a class="thread-link" href="{{thread.external_url}}">Original Post</a>
-
     <div class="image-scroll">
         {% for image_url in thread.image_urls %}
             <img src="{{image_url}}">
@@ -53,5 +56,7 @@
             </ul>
         </div>
     {% endif %}
+
+    {% include "partials/status_buttons.html" %}
 
 {% endblock %}

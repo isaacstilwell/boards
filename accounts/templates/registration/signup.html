@@ -1,14 +1,37 @@
 {% extends "base.html" %}
+{% load static %}
 
 {% block title %}Sign Up | Boards{% endblock %}
 
-{% block content %}
-<h2>Sign up</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form }}
-  <button type="submit">Sign Up</button>
-</form>
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "signup.css" %}">
 {% endblock %}
 
-{% comment %} copied from https://learndjango.com/tutorials/django-login-and-logout-tutorial {% endcomment %}
+{% block content %}
+<div class="content">
+  <h2>Sign up</h2>
+  <form method="post">
+    {% csrf_token %}
+    <div class="wrapper">
+      Username:
+      {{ form.username }}
+    </div>
+    <div class="wrapper">
+      Password:
+      {{ form.password1 }}
+      <div class="help-text">
+        {{ form.password1.help_text }}
+      </div>
+    </div>
+    <div class="wrapper">
+      Confirm Password:
+      {{ form.password2 }}
+    </div>
+
+    <button type="submit">Sign Up</button>
+  </form>
+  <a class="signup-prompt" href="{% url "login" %}">Already have an account?</a>
+</div>
+{% endblock %}
+
+{% comment %} copied and modified from https://learndjango.com/tutorials/django-login-and-logout-tutorial {% endcomment %}

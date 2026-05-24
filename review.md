@@ -1,6 +1,7 @@
 Who reviewed your code / when?: Chi Zhang, 5/18
 
 Link to the git commit and files in question (be sure to include the git commit hash to denote the specific version of the project reviewed)
+[Commit](https://github.com/isaacstilwell/boards/commit/6416555032eae099eafed4b2fc031c6de8ebaf16) - specficially scraper files (base, ckscraper, dkscaper, ghscraper, nkscraper, helpers)
 
 Provide your reviewer with 2-3 questions you'd like them to focus on, and include those here.
 
@@ -22,5 +23,12 @@ Provide your reviewer's responses.
         and your code is very impressive to read through
 
 Have a discussion about the code in question and include any other notes/things that you learned from the review.
+- Talked about challenges involved in web scraping, why there needs to be a subclass of the base scraper for every site
+- Chi suggested and showed some basic code for creating a custom date class that could abstract some of the code in helpers/extract_dates
+- Also suggested doing some documentation of the scrapers and the sites at the top of each scraper doc
 
 What, if any, changes did this review lead to you making to your code.
+TODOs:
+- Add custom date class in helpers/extract_dates
+- Add documentation for each scraper subclass
+- Implement results dict idea in scrapers

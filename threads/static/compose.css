@@ -1,0 +1,94 @@
+.content {
+    margin: 30px;
+}
+
+form {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.thread-form input, .thread-form select, .upload-btn {
+    border: 1px solid #2a382a;
+    padding: 10px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    flex-grow: 1;
+    color: #2a382a;
+}
+
+.thread-form input:focus {
+    outline: none;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.dates.wrapper {
+    font-family: 'UAV-OSD-Sans-Mono';
+    gap: 10px;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.currency {
+    flex-grow: 0 !important;
+    width: 50px;
+}
+
+.thread-submit {
+    width: 100%;
+    flex-grow: 1;
+    background-color: #2a382a;
+    border: 1px solid #2a382a;
+    padding: 10px 0px;
+    font-size: 20px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #bcbcbc;
+}
+
+.thread-submit:hover {
+    cursor: pointer;
+    background-color: #6a776c;
+}
+
+#id_images {
+    display: none;
+}
+
+.upload-btn {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.upload-btn > .fa-regular.fa-square-plus {
+    font-size: 18px;
+}
+
+.upload-btn:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.thumbnails {
+    margin-top: 10px;
+    padding: 10px;
+    scrollbar-color: #2a382a white;
+    border: 1px solid #2a382a;
+    display: flex;
+    gap: 5px;
+    overflow-x: auto;
+}
+
+.thumbnails > img {
+    width: 200px;
+    height: 125px;
+    object-fit: cover;
+}

@@ -6,5 +6,40 @@
 {% endblock %}
 
 {% block content %}
+    <div class="filters-box">
+        <input
+            type="text"
+            name="q"
+            class="search"
+            placeholder="Search..."
+            hx-get="{% url 'home' %}"
+            hx-trigger="keyup changed delay:500ms"
+            hx-target="#thread-list-wrapper"
+            hx-vals="{{ search.vals }}"
+            value="{{ search.current }}"
+        ></input>
+        <div id="buttons-wrapper" hx-swap-oob="true">
+            {% include "partials/filter_buttons.html" %}
+        </div>
+        {% comment %} <label for="sort-dropdown" class="sort-label">
+            <i class="fa-solid fa-up-down"></i>
+        </label> {% endcomment %}
+        <select
+            name="sort"
+            class="dropdown"
+            id="sort-dropdown"
+            hx-get="{% url 'home' %}"
+            hx-target="#thread-list-wrapper"
+            hx-vals="{{ sort.vals }}"
+            value="{{ sort.current }}"
+        >
+            <option value="newest">Newest</option>
+            <option value="oldest">Oldest</option>
+            <option value="price-asc">Price (asc)</option>
+            <option value="price-desc">Price (desc)</option>
+            <option value="end-asc">End date (asc)</option>
+            <option value="end-desc">End date (desc)</option>
+        </select>
+    </div>
     {% include "partials/thread_list.html" %}
 {% endblock %}

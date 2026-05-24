@@ -1,0 +1,79 @@
+html, body {
+    overflow: hidden;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: calc(100vh - 125px);
+    font-family: 'UAV-OSD-Sans-Mono';
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    font-size: x-small;
+}
+
+form {
+    width: 256px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+form input {
+    border: 1px solid #2a382a;
+    padding: 10px;
+    font-family: 'UAV-OSD-Sans-Mono';
+    flex-grow: 1;
+    color: #2a382a;
+}
+
+form input:focus {
+    outline: none;
+}
+
+button {
+    width: 100%;
+    flex-grow: 1;
+    background-color: #2a382a;
+    border: 1px solid #2a382a;
+    padding: 10px 0px;
+    font-size: 20px;
+    color: #bcbcbc;
+    font-family: 'UAV-OSD-Sans-Mono';
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #6a776c;
+}
+
+.signup-prompt {
+    font-family: 'UAV-OSD-Sans-Mono';
+    color: #2a382a;
+    font-size: small;
+    text-decoration: none;
+}
+
+.signup-prompt:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.help-text {
+    overflow-wrap: normal;
+    font-size: xx-small;
+}
+
+.help-text ul {
+    padding-left: 10px;
+}
+

@@ -14,10 +14,10 @@ class Thread(models.Model):
     primary_image_url = models.URLField(blank=True)
     image_urls = ArrayField(models.URLField(), blank=True, default=list)
     vendors = ArrayField(models.CharField(max_length=255), blank=True, default=list)
-    currency = models.CharField(max_length=3, choices=CURRENCY, null=True, blank=True)
+    currency = models.CharField(max_length=3, choices=CURRENCY, null=True, blank=True, default="USD")
     price = models.DecimalField(max_digits=8, decimal_places=2, null=True, blank=True)
-    item_type = models.CharField(max_length=20, choices=ITEM_TYPES)
-    thread_type = models.CharField(max_length=20, choices=THREAD_TYPES, null=True, blank=True)
+    item_type = models.CharField(max_length=20, choices=ITEM_TYPES, default="keyboard")
+    thread_type = models.CharField(max_length=20, choices=THREAD_TYPES, null=True, blank=True, default="upcoming")
     post_date = models.DateField()
     start_date = models.DateField(null=True, blank=True)
     end_date = models.DateField(null=True, blank=True)
@@ -63,3 +63,11 @@ class SavedThread(models.Model):
 
     def __str__(self):
         return f'{self.user.username} — {self.thread.title}'
+
+class UploadedImage(models.Model):
+    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name="uploaded_images")
+    thread = models.ForeignKey(Thread, on_delete=models.CASCADE, null=True, blank=True)
+    image = models.ImageField(upload_to="images/")
+
+    def __str__(self):
+        return f"Image uploaded by {self.user} on {self.thread}"

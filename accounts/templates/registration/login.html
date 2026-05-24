@@ -1,14 +1,29 @@
 {% extends "base.html" %}
+{% load static %}
 
 {% block title %}Login | Boards{% endblock %}
 
+{% block stylesheets %}
+    <link rel="stylesheet" href="{% static "login.css" %}">
+{% endblock %}
+
 {% block content %}
-<h2>Log In</h2>
-<form method="post">
-  {% csrf_token %}
-  {{ form }}
-  <button type="submit">Log In</button>
-</form>
+<div class="content">
+  <h2>Log In</h2>
+  <form method="post">
+    {% csrf_token %}
+    <div class="wrapper">
+      Username:
+      {{ form.username }}
+    </div>
+    <div class="wrapper">
+      Password:
+      {{ form.password }}
+    </div>
+    <button type="submit">Log In</button>
+  </form>
+  <a class="signup-prompt" href="{% url "signup" %}">Don't have an account?</a>
+</div>
 {% endblock %}
 
 {% comment %} https://learndjango.com/tutorials/django-login-and-logout-tutorial {% endcomment %}

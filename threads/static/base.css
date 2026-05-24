@@ -1,3 +1,47 @@
+@font-face {
+    font-family: 'UAV-OSD-Sans-Mono';
+    src:url('./UAV-OSD-Sans-Mono/UAV-OSD-Sans-Mono.ttf.woff') format('woff'),
+        url('./UAV-OSD-Sans-Mono/UAV-OSD-Sans-Mono.ttf.svg#UAV-OSD-Sans-Mono') format('svg'),
+        url('.UAV-OSD-Sans-Mono/UAV-OSD-Sans-Mono.ttf.eot'),
+        url('./UAV-OSD-Sans-Mono/UAV-OSD-Sans-Mono.ttf.eot?#iefix') format('embedded-opentype');
+        font-weight: normal;
+        font-style: normal;
+}
+
 body {
     color: black;
+    margin: 0;
 }
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #2a382a;
+}
+
+nav > ul {
+    display: flex;
+    list-style-type: none;
+    gap: 25px;
+}
+
+nav a {
+    font-size: 21px;
+    text-decoration: none;
+    color: #6a776c;
+    font-family: 'UAV-OSD-Sans-Mono';
+}
+
+nav a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.nav-button {
+    font-family: 'UAV-OSD-Sans-Mono';
+}
+
+
+
