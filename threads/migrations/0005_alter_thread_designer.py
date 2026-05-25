@@ -4,15 +4,14 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('threads', '0004_alter_savedthread_thread'),
+        ("threads", "0004_alter_savedthread_thread"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='thread',
-            name='designer',
+            model_name="thread",
+            name="designer",
             field=models.CharField(blank=True, max_length=255, null=True),
         ),
     ]

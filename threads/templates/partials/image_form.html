@@ -1,11 +1,9 @@
 <div id="image-form-wrapper">
-    <form
-        hx-post="{% url 'upload_images' %}"
-        hx-trigger="change"
-        hx-target="#image-form-wrapper"
-        hx-swap="outerHTML"
-        hx-encoding="multipart/form-data"
-    >
+    <form hx-post="{% url 'upload_images' %}"
+          hx-trigger="change"
+          hx-target="#image-form-wrapper"
+          hx-swap="outerHTML"
+          hx-encoding="multipart/form-data">
         {% csrf_token %}
         {{ image_form.images }}
         <label for="{{ image_form.images.id_for_label }}" class="upload-btn">
@@ -13,10 +11,12 @@
             Add images
         </label>
     </form>
-
     <div class="thumbnails">
         {% for uploaded_image in uploaded_images %}
-            <img src="{{uploaded_image.image.url}}">
+            <img src="{{ uploaded_image.image.url }}"
+                 width="200"
+                 height="125"
+                 alt="{{ uploaded_image }}">
         {% endfor %}
     </div>
 </div>

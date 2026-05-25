@@ -4,15 +4,14 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('threads', '0002_alter_thread_options_and_more'),
+        ("threads", "0002_alter_thread_options_and_more"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='thread',
-            name='post_date',
+            model_name="thread",
+            name="post_date",
             field=models.DateField(),
         ),
     ]

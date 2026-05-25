@@ -1,24 +1,20 @@
 <div id="status-buttons-wrapper">
     {% if user.is_staff %}
         <div class="approve-reject-buttons">
-            <button
-                class="approve-button {% if thread.status == 'approved' %}selected{% endif %}"
-                hx-post="{% url "thread_approve" thread.id %}"
-                hx-target="#status-buttons-wrapper"
-                hx-swap="outerHTML"
-            >
+            <button class="approve-button {% if thread.status == 'approved' %}selected{% endif %}"
+                    hx-post="{% url "thread_approve" thread.id %}"
+                    hx-target="#status-buttons-wrapper"
+                    hx-swap="outerHTML">
                 {% if thread.status == 'approved' %}
                     Approved
                 {% else %}
                     Approve
                 {% endif %}
             </button>
-            <button
-                class="reject-button {% if thread.status == 'rejected' %}selected{% endif %}"
-                hx-post="{% url "thread_reject" thread.id %}"
-                hx-target="#status-buttons-wrapper"
-                hx-swap="outerHTML"
-            >
+            <button class="reject-button {% if thread.status == 'rejected' %}selected{% endif %}"
+                    hx-post="{% url "thread_reject" thread.id %}"
+                    hx-target="#status-buttons-wrapper"
+                    hx-swap="outerHTML">
                 {% if thread.status == 'rejected' %}
                     Rejected
                 {% else %}

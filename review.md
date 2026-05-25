@@ -28,7 +28,6 @@ Have a discussion about the code in question and include any other notes/things 
 - Also suggested doing some documentation of the scrapers and the sites at the top of each scraper doc
 
 What, if any, changes did this review lead to you making to your code.
-TODOs:
-- Add custom date class in helpers/extract_dates
 - Add documentation for each scraper subclass
-- Implement results dict idea in scrapers
+- ~~Add custom date class in helpers/extract_dates~~ (rejected - this isn't helpful with two separate date paths)
+- ~~Implement results dict idea in scrapers~~ (rejected - this adds more code with no meaningful readability changes)

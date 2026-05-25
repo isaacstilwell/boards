@@ -4,15 +4,19 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('threads', '0005_alter_thread_designer'),
+        ("threads", "0005_alter_thread_designer"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='thread',
-            name='currency',
-            field=models.CharField(blank=True, choices=[('USD', '$'), ('EUR', '€'), ('GBP', '£')], max_length=3, null=True),
+            model_name="thread",
+            name="currency",
+            field=models.CharField(
+                blank=True,
+                choices=[("USD", "$"), ("EUR", "€"), ("GBP", "£")],
+                max_length=3,
+                null=True,
+            ),
         ),
     ]

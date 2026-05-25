@@ -2,21 +2,18 @@
     {% for thread in page %}
         <div class="thread-row">
             <div class="thread-row-grid">
-                <img src="{{thread.primary_image_url}}">
-                <h2>{{thread.title}}</h2>
-                {% if thread.end_date %}
-                    <span class="end-date tag">Ends {{thread.end_date}}</span>
-                {% endif %}
-                {% if thread.price %}
-                    <span class="price tag">{{thread.get_currency_display}}{{thread.price}}</span>
-                {% endif %}
-                <button
-                    class="save-thread-button"
-                    hx-post="{% url "thread_save" thread.id %}"
-                    hx-target="#thread-list-wrapper"
-                    hx-swap="outerHTML"
-                    hx-vals="{'page': {{ page.number }}, }"
-                >
+                <img src="{{ thread.primary_image_url }}"
+                     width="250"
+                     height="150"
+                     alt="{{ thread }}">
+                <h2>{{ thread.title }}</h2>
+                {% if thread.end_date %}<span class="end-date tag">Ends {{ thread.end_date }}</span>{% endif %}
+                {% if thread.price %}<span class="price tag">{{ thread.get_currency_display }}{{ thread.price }}</span>{% endif %}
+                <button class="save-thread-button"
+                        hx-post="{% url "thread_save" thread.id %}"
+                        hx-target="#thread-list-wrapper"
+                        hx-swap="outerHTML"
+                        hx-vals="{'page': {{ page.number }}, }">
                     {% if thread in saved_threads %}
                         <i class="fa-solid fa-star"></i>
                     {% else %}
@@ -28,24 +25,21 @@
             <a class="thread-row-button" href="{% url 'thread_detail' thread.id %}"></a>
         </div>
     {% endfor %}
-
     {% comment %} future TODO: use hrefs here somehow {% endcomment %}
     <div class="page-controls">
         <button {% if not page.has_previous %}disabled{% endif %}
-            hx-get="{% url "home" %}"
-            hx-target="#thread-list-wrapper"
-            hx-swap="outerHTML show:window:top"
-            {% if page.has_previous %}hx-vals='{"page": {{ page.previous_page_number }}}'{% endif %}
-        >
+                hx-get="{% url "home" %}"
+                hx-target="#thread-list-wrapper"
+                hx-swap="outerHTML show:window:top"
+                {% if page.has_previous %}hx-vals='{"page": {{ page.previous_page_number }} }'{% endif %}>
             <i class="fa-solid fa-angle-left"></i>
         </button>
-        <span class="page-number">{{page.number}}</span>
+        <span class="page-number">{{ page.number }}</span>
         <button {% if not page.has_next %}disabled{% endif %}
-            hx-get="{% url "home" %}"
-            hx-target="#thread-list-wrapper"
-            hx-swap="outerHTML show:window:top"
-            {% if page.has_next %}hx-vals='{"page": {{ page.next_page_number }}}'{% endif %}
-        >
+                hx-get="{% url "home" %}"
+                hx-target="#thread-list-wrapper"
+                hx-swap="outerHTML show:window:top"
+                {% if page.has_next %}hx-vals='{"page": {{ page.next_page_number }} }'{% endif %}>
             <i class="fa-solid fa-angle-right"></i>
         </button>
     </div>

@@ -1,40 +1,26 @@
 {% extends "base.html" %}
-
 {% load static %}
-
-{% block title %}Compose | Boards{% endblock %}
-
+{% block title %}
+    Compose | Boards
+{% endblock title %}
 {% block stylesheets %}
     <link rel="stylesheet" href="{% static "compose.css" %}">
-{% endblock %}
-
+{% endblock stylesheets %}
 {% block content %}
     <div class="content">
-        {% include "partials/image_form.html"%}
+        {% include "partials/image_form.html" %}
         <form action="{% url 'thread_create' %}" method="post" class="thread-form">
             {% csrf_token %}
-            <div class="title-wrapper wrapper">
-                {{ thread_form.title }}
-            </div>
-            <div class="designer-wrapper wrapper">
-                {{ thread_form.designer }}
-            </div>
-            <div class="external_url-wrapper wrapper">
-                {{ thread_form.external_url }}
-            </div>
-            <div class="vendors-wrapper wrapper">
-                {{ thread_form.vendors }}
-            </div>
+            <div class="title-wrapper wrapper">{{ thread_form.title }}</div>
+            <div class="designer-wrapper wrapper">{{ thread_form.designer }}</div>
+            <div class="external_url-wrapper wrapper">{{ thread_form.external_url }}</div>
+            <div class="vendors-wrapper wrapper">{{ thread_form.vendors }}</div>
             <div class="price-wrapper wrapper">
                 {{ thread_form.currency }}
                 {{ thread_form.price }}
             </div>
-            <div class="item_type-wrapper wrapper">
-                {{ thread_form.item_type }}
-            </div>
-            <div class="thread_type-wrapper wrapper">
-                {{ thread_form.thread_type }}
-            </div>
+            <div class="item_type-wrapper wrapper">{{ thread_form.item_type }}</div>
+            <div class="thread_type-wrapper wrapper">{{ thread_form.thread_type }}</div>
             <div class="dates wrapper">
                 From
                 {{ thread_form.start_date }}
@@ -44,4 +30,4 @@
             <button type="submit" class="thread-submit">Post</button>
         </form>
     </div>
-{% endblock %}
+{% endblock content %}

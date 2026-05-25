@@ -1,13 +1,11 @@
 {% extends "base.html" %}
-
 {% load static %}
-
-{% block title %}Wishlist | Boards{% endblock %}
-
+{% block title %}
+    Wishlist | Boards
+{% endblock title %}
 {% block stylesheets %}
     <link rel="stylesheet" href="{% static "wishlist.css" %}">
-{% endblock %}
-
+{% endblock stylesheets %}
 {% block content %}
     {% include "partials/wishlist_list.html" %}
-{% endblock %}
+{% endblock content %}

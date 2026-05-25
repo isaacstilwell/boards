@@ -1,17 +1,25 @@
 {% load static %}
 {% load django_htmx %}
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <title>{% block title %}Boards{% endblock %}</title>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+        <meta charset="UTF-8">
+        <meta name="description" content="Custom keyboard GBs">
+        <meta name="keywords" content="keyboard, keycaps">
+        {% comment %}because the linter genuinely gives me an error for not having meta tags{% endcomment %}
+        <title>
+            {% block title %}
+                Boards
+            {% endblock title %}
+        </title>
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
         <link rel="stylesheet" href="{% static "base.css" %}">
-        {% block stylesheets %}{% endblock %}
-        <script src="{% static "htmx.min.js" %}"/>
+        {% block stylesheets %}
+        {% endblock stylesheets %}
+        <script src="{% static "htmx.min.js" %}"></script>
         {% django_htmx_script %}
     </head>
-
     <body hx-headers='{"x-csrftoken": "{{ csrf_token }}"}'>
         <nav>
             <a class="nav-button" href="{% url "home" %}">
@@ -39,12 +47,8 @@
             </ul>
         </nav>
         <main>
-            {% block content %}{% endblock content %}
+            {% block content %}
+            {% endblock content %}
         </main>
-        {% comment %} TODO: idk if i need a footer but implement if necessary {% endcomment %}
-        {% comment %} <footer>
-            <div class="footer-nav"></div>
-            <div class="footer-other"></div>
-        </footer> {% endcomment %}
     </body>
 </html>

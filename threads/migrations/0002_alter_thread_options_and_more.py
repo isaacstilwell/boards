@@ -7,63 +7,72 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('threads', '0001_initial'),
+        ("threads", "0001_initial"),
         migrations.swappable_dependency(settings.AUTH_USER_MODEL),
     ]
 
     operations = [
         migrations.AlterModelOptions(
-            name='thread',
-            options={'ordering': ['-post_date']},
+            name="thread",
+            options={"ordering": ["-post_date"]},
         ),
         migrations.RemoveIndex(
-            model_name='thread',
-            name='threads_thr_status_e9ed9e_idx',
+            model_name="thread",
+            name="threads_thr_status_e9ed9e_idx",
         ),
         migrations.RenameIndex(
-            model_name='thread',
-            new_name='item_type_idx',
-            old_name='threads_thr_item_ty_3c3263_idx',
+            model_name="thread",
+            new_name="item_type_idx",
+            old_name="threads_thr_item_ty_3c3263_idx",
         ),
         migrations.AddField(
-            model_name='thread',
-            name='post_date',
-            field=models.DateTimeField(default=datetime.datetime(2026, 5, 13, 16, 4, 39, 31842, tzinfo=datetime.timezone.utc)),
+            model_name="thread",
+            name="post_date",
+            field=models.DateTimeField(
+                default=datetime.datetime(
+                    2026, 5, 13, 16, 4, 39, 31842, tzinfo=datetime.timezone.utc
+                )
+            ),
             preserve_default=False,
         ),
         migrations.AddField(
-            model_name='thread',
-            name='poster',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='submitted_threads', to=settings.AUTH_USER_MODEL),
+            model_name="thread",
+            name="poster",
+            field=models.ForeignKey(
+                blank=True,
+                null=True,
+                on_delete=django.db.models.deletion.SET_NULL,
+                related_name="submitted_threads",
+                to=settings.AUTH_USER_MODEL,
+            ),
         ),
         migrations.AlterOrderWithRespectTo(
-            name='savedthread',
-            order_with_respect_to='thread',
+            name="savedthread",
+            order_with_respect_to="thread",
         ),
         migrations.AddIndex(
-            model_name='thread',
-            index=models.Index(fields=['status'], name='status_idx'),
+            model_name="thread",
+            index=models.Index(fields=["status"], name="status_idx"),
         ),
         migrations.AddIndex(
-            model_name='thread',
-            index=models.Index(fields=['thread_type'], name='thread_type_idx'),
+            model_name="thread",
+            index=models.Index(fields=["thread_type"], name="thread_type_idx"),
         ),
         migrations.AddIndex(
-            model_name='thread',
-            index=models.Index(fields=['post_date'], name='post_date_idx'),
+            model_name="thread",
+            index=models.Index(fields=["post_date"], name="post_date_idx"),
         ),
         migrations.AddIndex(
-            model_name='thread',
-            index=models.Index(fields=['start_date'], name='start_date_idx'),
+            model_name="thread",
+            index=models.Index(fields=["start_date"], name="start_date_idx"),
         ),
         migrations.AddIndex(
-            model_name='thread',
-            index=models.Index(fields=['end_date'], name='end_date_idx'),
+            model_name="thread",
+            index=models.Index(fields=["end_date"], name="end_date_idx"),
         ),
         migrations.RemoveField(
-            model_name='thread',
-            name='body',
+            model_name="thread",
+            name="body",
         ),
     ]

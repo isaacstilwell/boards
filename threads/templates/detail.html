@@ -1,62 +1,46 @@
 {% extends "base.html" %}
-
 {% load static %}
-
-{% block title %}{{thread.title}} | Boards{% endblock %}
-
+{% block title %}
+    {{ thread.title }} | Boards
+{% endblock title %}
 {% block stylesheets %}
     <link rel="stylesheet" href="{% static "detail.css" %}">
-{% endblock %}
-
+{% endblock stylesheets %}
 {% block content %}
     <div class="thread-header">
         <div class="thread-header-main">
             <div class="thread-title-group">
-                <h2 class="thread-title">{{thread.title}}</h2>
-                <a class="thread-link" href="{{thread.external_url}}">
+                <h2 class="thread-title">{{ thread.title }}</h2>
+                <a class="thread-link" href="{{ thread.external_url }}">
                     <i class="fa-solid fa-arrow-up-right-from-square"></i>
                 </a>
             </div>
-            {% if thread.price %}
-                <h2 class="thread-price">{{thread.get_currency_display}}{{thread.price}}</span>
-            {% endif %}
+            {% if thread.price %}<h2 class="thread-price">{{ thread.get_currency_display }}{{ thread.price }}</h2>{% endif %}
         </div>
-        {% if thread.author %}
-            <span class="thread-header-sub">By {{thread.author}}</span>
-        {% endif %}
+        {% if thread.author %}<span class="thread-header-sub">By {{ thread.author }}</span>{% endif %}
     </div>
     <div class="thread-subheader">
         <div class="thread-tags">
-            <span class="item-type tag">{{thread.get_item_type_display}}</span>
-            <span class="thread-type tag">{{thread.get_thread_type_display}}</span>
+            <span class="item-type tag">{{ thread.get_item_type_display }}</span>
+            <span class="thread-type tag">{{ thread.get_thread_type_display }}</span>
         </div>
         <div class="dates">
-            {% if thread.start_date %}
-                <span class="start-date">Start: {{thread.start_date}}</span>
-            {% endif %}
-            {% if thread.end_date %}
-                <span class="end-date">End: {{thread.end_date}}</span>
-            {% endif %}
+            {% if thread.start_date %}<span class="start-date">Start: {{ thread.start_date }}</span>{% endif %}
+            {% if thread.end_date %}<span class="end-date">End: {{ thread.end_date }}</span>{% endif %}
         </div>
     </div>
-
     <div class="image-scroll">
         {% for image_url in thread.image_urls %}
-            <img src="{{image_url}}">
+            <img src="{{ image_url }}" width="325" height="150" alt="{{ image_url }}">
         {% endfor %}
     </div>
-
     {% if thread.vendors %}
         <div class="vendor-section">
             <h3 class="vendor-section-title">Vendors</h3>
             <ul class="vendor-list">
-                {% for vendor in thread.vendors %}
-                    <li class="vendor">{{vendor}}</li>
-                {% endfor %}
+                {% for vendor in thread.vendors %}<li class="vendor">{{ vendor }}</li>{% endfor %}
             </ul>
         </div>
     {% endif %}
-
     {% include "partials/status_buttons.html" %}
-
-{% endblock %}
+{% endblock content %}

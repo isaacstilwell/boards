@@ -1,15 +1,14 @@
 {% extends "base.html" %}
 {% load static %}
-
-{% block title %}Profile | Boards{% endblock %}
-
+{% block title %}
+    Profile | Boards
+{% endblock title %}
 {% block stylesheets %}
     <link rel="stylesheet" href="{% static "profile.css" %}">
-{% endblock %}
-
+{% endblock stylesheets %}
 {% block content %}
     <form action="{% url 'logout' %}" method="post">
         {% csrf_token %}
         <button type="submit">Log Out</button>
     </form>
-{% endblock %}
+{% endblock content %}

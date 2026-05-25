@@ -2,6 +2,8 @@ from django import forms
 from django.forms import ClearableFileInput
 from .models import UploadedImage, Thread
 
+
+# https://docs.djangoproject.com/en/6.0/topics/http/file-uploads/#uploading-multiple-files
 class MultipleFileInput(forms.ClearableFileInput):
     allow_multiple_selected = True
 
@@ -37,13 +39,19 @@ class ThreadForm(forms.ModelForm):
             "item_type",
             "thread_type",
             "start_date",
-            "end_date"
+            "end_date",
         ]
         widgets = {
             "title": forms.TextInput(attrs={"class": "title", "placeholder": "Title"}),
-            "designer": forms.TextInput(attrs={"class": "designer", "placeholder": "Designer"}),
-            "external_url": forms.URLInput(attrs={"class": "external_url", "placeholder": "External Link"}),
-            "vendors": forms.TextInput(attrs={"class": "vendors", "placeholder": "Vendors (comma separated)"}),
+            "designer": forms.TextInput(
+                attrs={"class": "designer", "placeholder": "Designer"}
+            ),
+            "external_url": forms.URLInput(
+                attrs={"class": "external_url", "placeholder": "External Link"}
+            ),
+            "vendors": forms.TextInput(
+                attrs={"class": "vendors", "placeholder": "Vendors (comma separated)"}
+            ),
             "currency": forms.Select(attrs={"class": "currency"}),
             "price": forms.NumberInput(attrs={"class": "price", "placeholder": 0.00}),
             "item_type": forms.Select(attrs={"class": "item_type"}),

@@ -5,15 +5,18 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     dependencies = [
-        ('threads', '0003_alter_thread_post_date'),
+        ("threads", "0003_alter_thread_post_date"),
     ]
 
     operations = [
         migrations.AlterField(
-            model_name='savedthread',
-            name='thread',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='saved', to='threads.thread'),
+            model_name="savedthread",
+            name="thread",
+            field=models.ForeignKey(
+                on_delete=django.db.models.deletion.CASCADE,
+                related_name="saved",
+                to="threads.thread",
+            ),
         ),
     ]

@@ -1,11 +1,7 @@
 {% for button in buttons %}
-    <button
-        class="filter {% if button.toggled %}toggled{% endif %}"
-        hx-get="{% url 'home' %}"
-        hx-target="#thread-list-wrapper"
-        hx-swap="outerHTML"
-        hx-vals="{{ button.vals }}"
-    >
-        {{ button.label }}
-    </button>
+    <button class="filter {% if button.toggled %}toggled{% endif %}"
+            hx-get="{% url 'home' %}"
+            hx-target="#thread-list-wrapper"
+            hx-swap="outerHTML"
+            hx-vals="{{ button.vals }}">{{ button.label }}</button>
 {% endfor %}

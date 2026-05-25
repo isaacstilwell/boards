@@ -1,23 +1,20 @@
 <div id="wishlist-grid">
     {% for thread in saved_threads %}
         <div class="thread-card">
-            <img src="{{thread.primary_image_url}}">
-            <h2 class="thread-title">{{thread.title}}</h2>
+            <img src="{{ thread.primary_image_url }}"
+                 width="325"
+                 height="175"
+                 alt="{{ thread }}">
+            <h2 class="thread-title">{{ thread.title }}</h2>
             <div class="thread-sub">
                 <div class="tags">
-                    {% if thread.end_date %}
-                        <span class="tag">Ends {{thread.end_date|date:"m/d"}}</span>
-                    {% endif %}
-                    {% if thread.price %}
-                        <span class="tag">{{thread.get_currency_display}}{{thread.price}}</span>
-                    {% endif %}
+                    {% if thread.end_date %}<span class="tag">Ends {{ thread.end_date|date:"m/d" }}</span>{% endif %}
+                    {% if thread.price %}<span class="tag">{{ thread.get_currency_display }}{{ thread.price }}</span>{% endif %}
                 </div>
-                <button
-                    class="save-thread-button "
-                    hx-post="{% url "thread_save" thread.id %}"
-                    hx-target="#wishlist-grid"
-                    hx-swap="outerHTML"
-                >
+                <button class="save-thread-button "
+                        hx-post="{% url "thread_save" thread.id %}"
+                        hx-target="#wishlist-grid"
+                        hx-swap="outerHTML">
                     {% if thread in saved_threads %}
                         <i class="fa-solid fa-star"></i>
                     {% else %}
