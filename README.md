@@ -26,7 +26,7 @@
 ## Architecture
 The app is 100% built in Django. It contains two apps: `accounts` and `threads`. `Accounts` uses django auth to handle all of the authentication-related code- login, logout, signup. `Threads` is more involved and contains the brunt of the app including the `Thread` model that the app is built around, along with all of the web scrapers and page/api routes.
 ### Scrapers
-Each scraper is a subclass of the BaseScraper ABC, which defines the `write()` and `run() methods that write the scraped thread objects as Threads in the database. It also defines some basic helpers- `sleep()` (used to sleep a random amount between each visit to the site being scraped) and `log()` (used to log errors that the scrapers encounter). Lastly, it defines the abstract `fetch()` method, which each scraper needs to implement according to the logic associated with the site being scraped.
+Each scraper is a subclass of the BaseScraper ABC, which defines the `write()` and `run()` methods that write the scraped thread objects as Threads in the database. It also defines some basic helpers- `sleep()` (used to sleep a random amount between each visit to the site being scraped) and `log()` (used to log errors that the scrapers encounter). Lastly, it defines the abstract `fetch()` method, which each scraper needs to implement according to the logic associated with the site being scraped.
 
 There are four scrapers. All four scrapers follow the same general format:
 1. open a page that holds a collection of items to be turned into threads
