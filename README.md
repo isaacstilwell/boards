@@ -3,7 +3,7 @@
 ## Setup
 
 1. Clone this repo and cd into it
-2. Copy `example.env`: `cp example.env .env`
+2. Copy `example.env`: `cp example.env .env`. You may change the SECRET_KEY and DEBUG fields, but this isn't a requirement for running the project locally.
 3. Run `uv sync`
 4. Install and start PostgreSQL, then create a new local database
     - on MacOS with homebrew and zsh, I ran:
@@ -15,13 +15,17 @@
     > psql boarddb
     > \conninfo
     ```
-5. Add the DB url to .env in the DATABASE_URL field. From the `\conninfo` output, the string should be `psql://<Client User>@localhost:<Server Port>/<Database>`.
-6. Run `uv run python manage.py migrate` to set up the DB
+5. Add the DB URL to .env in the DATABASE_URL field. From the `\conninfo` output in the previous step, the URL should be `psql://<Client User>@localhost:<Server Port>/<Database>`.
+6. Run `uv run python manage.py migrate` to set up the DB.
 7. Run `uv run python manage.py scrape` to scrape the sites into the db. You'll need to wait a few minutes for it to complete.
-8. Run `uv run python manage.py runserver` to run the server at port :8000
-9. Open the app at [http://localhost:8000/](http://localhost:8000/)
-10. Optionally schedule cron jobs to scrape threads and clear unmatched uploaded images with `uv run python manage.py scrape` and `uv run python manage.py clearunmappedimages` respectively. [This](https://cronitor.io/guides/python-cron-jobs) is the guide I used. Make sure to cd into the project and use the absolute path to uv. This is a command I added to my crontab:
+8. Run `uv run python manage.py runserver` to run the server at [http://localhost:8000/](http://localhost:8000/)
+9. Optionally schedule cron jobs to scrape threads and clear unmatched uploaded images with `uv run python manage.py scrape` and `uv run python manage.py clearunmappedimages` respectively. [This](https://cronitor.io/guides/python-cron-jobs) is the guide I used. Make sure to cd into the project and use the absolute path to uv. This is a command I added to my crontab:
 ```3 2 * * * cd /path/to/boards && /path/to/uv run python manage.py scrape```
+
+## Rationale
+The custom keyboard space is highly stratified, making it difficult for hobbyists to select which project to spend their money on. Personally, I often learn about a GB after it's completed and wish I had known about it beforehand. The goal of this project is to provide a comprehensive list of available items for hobbyists to better plan their future shopping.
+
+The list is currently comprised of items from GeekHack, Divinikey, CannonKeys, and NovelKeys, with many more sites coming soon.
 
 ## Architecture
 The app is 100% built in Django. It contains two apps: `accounts` and `threads`. `Accounts` uses django auth to handle all of the authentication-related code- login, logout, signup. `Threads` is more involved and contains the brunt of the app including the `Thread` model that the app is built around, along with all of the web scrapers and page/api routes.
@@ -50,6 +54,17 @@ There are three models: `Thread`, `SavedThread`, and `UploadedImage` (in additio
 
 ### Templates
 There are two types of templates: partials and full templates. The full templates are rendered when a user loads a page, and the partials are rendered when they send an htmx request from that page. This is a common pattern with htmx.
+
+The app has four main page routes- home, wishlist, compose, and detail:
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
+    <img src="/assets/home.png" width="400" height="250">
+    <img src="/assets/wishlist.png" width="400" height="250">
+    <img src="/assets/compose.png" width="400" height="250">
+    <img src="/assets/detail.png" width="400" height="250">
+</div>
+
+Each extends base.html, which defines the header present across all pages. Each has its own stylesheet that it uses alongside the base.css stylesheet.
 
 ### API
 The full API is at `threads/views.py`. There are four main page routes: home, wishlist, compose, and detail, and many endpoints that return partials based on htmx requests. These include thread approvals and rejections, image uploads, thread creation, and saving threads. There are also some routes defined in the `accounts` app that render the login and profile pages.
